@@ -5,6 +5,21 @@ GET {{baseUrl}}/{{resourseName}}
 
 ###
 
+# @name sortProductNamesAsc
+GET {{baseUrl}}/{{resourseName}}?_sort=productName&_order=asc
+
+###
+
+# @name sortProductPriceDesc
+GET {{baseUrl}}/{{resourseName}}?_sort=price&_order=desc
+
+###
+
+# @name sortProductPriceAsc
+GET {{baseUrl}}/{{resourseName}}?_sort=price&_order=asc
+
+###
+
 # @name filterProducts
 GET {{baseUrl}}/{{resourseName}}?fabric=linen&categoryId=2
 

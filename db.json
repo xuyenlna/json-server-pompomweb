@@ -1,38 +1,64 @@
 {
+  "group": [
+    {
+      "id": "1",
+      "name": "bedding",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452"
+    },
+    {
+      "id": "2",
+      "name": "accessories",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452"
+    }
+  ],
   "categories": [
     {
       "id": "1",
       "name": "duet cover",
+      "groupId": "1",
+      "groupName": "bedding",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452"
     },
     {
       "id": "2",
       "name": "coverlet",
+      "groupId": "1",
+      "groupName": "bedding",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452"
     },
     {
       "id": "3",
       "name": "bedskirt",
+      "groupId": "1",
+      "groupName": "bedding",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452"
     },
     {
       "id": "4",
       "name": "big-pillow",
+      "groupId": "2",
+      "groupName": "accessories",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452"
     },
     {
       "id": "5",
       "name": "body-pillow",
+      "groupId": "2",
+      "groupName": "accessories",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452"
     },
     {
       "id": "6",
       "name": "curtain",
+      "groupId": "2",
+      "groupName": "accessories",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452"
     }
