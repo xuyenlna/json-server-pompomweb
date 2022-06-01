@@ -65,7 +65,7 @@
   ],
   "products": [
     {
-      "id": "duet01",
+      "id": "duetparker01",
       "onSale": "false",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -73,12 +73,22 @@
       "categoryName": "duet cover",
       "productName": "PARKER BAMBOO DUVET COVER SET",
       "price": 253,
+      "inStock": 10,
       "fabric": "bamboo",
       "image": "",
       "size": [
         "twin duet cover",
         "queen duet cover set",
         "king duet cover set"
+      ],
+      "colorName": "ivory",
+      "colorHexa": "#fffff8",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/bambooivoryedit_1080x.jpg?v=1635802784",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Bamboo-Ivory-Side-Web_1080x.png?v=1629322333",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/bamboo-ivory-detail_1080x.png?v=1629322333",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/parkerbamboosidewebivory_1080x.jpg?v=1635802784",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/bambooivoryedit_1080x.jpg?v=1635802784"
       ],
       "colorList": [
         {
@@ -124,7 +134,211 @@
       ]
     },
     {
-      "id": "duet02",
+      "id": "duetparker02",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "1",
+      "categoryName": "duet cover",
+      "productName": "PARKER BAMBOO DUVET COVER SET",
+      "price": 253,
+      "inStock": 5,
+      "fabric": "bamboo",
+      "image": "",
+      "size": [
+        "twin duet cover",
+        "queen duet cover set",
+        "king duet cover set"
+      ],
+      "colorName": "ocean",
+      "colorHexa": "#d0d2cf",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/oceanbamboofrontweb_1080x.jpg?v=1629322373",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/oceanbamboofrontweb_1080x.jpg?v=1629322373",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Ocean-Side-Web_1080x.png?v=1629322373"
+      ],
+      "colorList": [
+        {
+          "colorName": "ivory",
+          "colorHexa": "#fffff8",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/bambooivoryedit_1080x.jpg?v=1635802784",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Bamboo-Ivory-Side-Web_1080x.png?v=1629322333",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/bamboo-ivory-detail_1080x.png?v=1629322333",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/parkerbamboosidewebivory_1080x.jpg?v=1635802784",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/bambooivoryedit_1080x.jpg?v=1635802784"
+          ]
+        },
+        {
+          "colorName": "ocean",
+          "colorHexa": "#d0d2cf",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/oceanbamboofrontweb_1080x.jpg?v=1629322373",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/oceanbamboofrontweb_1080x.jpg?v=1629322373",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Ocean-Side-Web_1080x.png?v=1629322373"
+          ]
+        },
+        {
+          "colorName": "sand",
+          "colorHexa": "#cec2bf",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/sandbamboofrontweb_1080x.jpg?v=1627506965",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Bamboo-Sand-Side-Web_1080x.png?v=1629322398",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/bamboo-sand-detail_1080x.png?v=1629322403"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/whitebamboofrontweb_1080x.jpg?v=1627507111",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/white-bamboo-Side-Web_1080x.png?v=1629322420",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/bamboo-detail-5_1f0c356d-a18a-418f-ad64-892730f6d76f_1080x.png?v=1629322420",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/parker_bamboo_side_web_1296xNEWEDIT_1080x.jpg?v=1635803075",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Parker_Bamboo_Web_ec64a3b1-b78d-4075-a616-c52fe461c810_1080x.jpg?v=1635803075"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "duetparker03",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "1",
+      "categoryName": "duet cover",
+      "productName": "PARKER BAMBOO DUVET COVER SET",
+      "price": 253,
+      "inStock": 5,
+      "fabric": "bamboo",
+      "image": "",
+      "size": [
+        "twin duet cover",
+        "queen duet cover set",
+        "king duet cover set"
+      ],
+      "colorName": "sand",
+      "colorHexa": "#cec2bf",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/sandbamboofrontweb_1080x.jpg?v=1627506965",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Bamboo-Sand-Side-Web_1080x.png?v=1629322398",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/bamboo-sand-detail_1080x.png?v=1629322403"
+      ],
+      "colorList": [
+        {
+          "colorName": "ivory",
+          "colorHexa": "#fffff8",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/bambooivoryedit_1080x.jpg?v=1635802784",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Bamboo-Ivory-Side-Web_1080x.png?v=1629322333",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/bamboo-ivory-detail_1080x.png?v=1629322333",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/parkerbamboosidewebivory_1080x.jpg?v=1635802784",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/bambooivoryedit_1080x.jpg?v=1635802784"
+          ]
+        },
+        {
+          "colorName": "ocean",
+          "colorHexa": "#d0d2cf",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/oceanbamboofrontweb_1080x.jpg?v=1629322373",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/oceanbamboofrontweb_1080x.jpg?v=1629322373",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Ocean-Side-Web_1080x.png?v=1629322373"
+          ]
+        },
+        {
+          "colorName": "sand",
+          "colorHexa": "#cec2bf",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/sandbamboofrontweb_1080x.jpg?v=1627506965",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Bamboo-Sand-Side-Web_1080x.png?v=1629322398",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/bamboo-sand-detail_1080x.png?v=1629322403"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/whitebamboofrontweb_1080x.jpg?v=1627507111",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/white-bamboo-Side-Web_1080x.png?v=1629322420",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/bamboo-detail-5_1f0c356d-a18a-418f-ad64-892730f6d76f_1080x.png?v=1629322420",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/parker_bamboo_side_web_1296xNEWEDIT_1080x.jpg?v=1635803075",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Parker_Bamboo_Web_ec64a3b1-b78d-4075-a616-c52fe461c810_1080x.jpg?v=1635803075"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "duetparker04",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "1",
+      "categoryName": "duet cover",
+      "productName": "PARKER BAMBOO DUVET COVER SET",
+      "price": 253,
+      "inStock": 5,
+      "fabric": "bamboo",
+      "image": "",
+      "size": [
+        "twin duet cover",
+        "queen duet cover set",
+        "king duet cover set"
+      ],
+      "colorName": "white",
+      "colorHexa": "#ffffff",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/whitebamboofrontweb_1080x.jpg?v=1627507111",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/white-bamboo-Side-Web_1080x.png?v=1629322420",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/bamboo-detail-5_1f0c356d-a18a-418f-ad64-892730f6d76f_1080x.png?v=1629322420",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/parker_bamboo_side_web_1296xNEWEDIT_1080x.jpg?v=1635803075",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Parker_Bamboo_Web_ec64a3b1-b78d-4075-a616-c52fe461c810_1080x.jpg?v=1635803075"
+      ],
+      "colorList": [
+        {
+          "colorName": "ivory",
+          "colorHexa": "#fffff8",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/bambooivoryedit_1080x.jpg?v=1635802784",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Bamboo-Ivory-Side-Web_1080x.png?v=1629322333",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/bamboo-ivory-detail_1080x.png?v=1629322333",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/parkerbamboosidewebivory_1080x.jpg?v=1635802784",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/bambooivoryedit_1080x.jpg?v=1635802784"
+          ]
+        },
+        {
+          "colorName": "ocean",
+          "colorHexa": "#d0d2cf",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/oceanbamboofrontweb_1080x.jpg?v=1629322373",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/oceanbamboofrontweb_1080x.jpg?v=1629322373",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Ocean-Side-Web_1080x.png?v=1629322373"
+          ]
+        },
+        {
+          "colorName": "sand",
+          "colorHexa": "#cec2bf",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/sandbamboofrontweb_1080x.jpg?v=1627506965",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Bamboo-Sand-Side-Web_1080x.png?v=1629322398",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/bamboo-sand-detail_1080x.png?v=1629322403"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/whitebamboofrontweb_1080x.jpg?v=1627507111",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/white-bamboo-Side-Web_1080x.png?v=1629322420",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/bamboo-detail-5_1f0c356d-a18a-418f-ad64-892730f6d76f_1080x.png?v=1629322420",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/parker_bamboo_side_web_1296xNEWEDIT_1080x.jpg?v=1635803075",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Parker_Bamboo_Web_ec64a3b1-b78d-4075-a616-c52fe461c810_1080x.jpg?v=1635803075"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "duetHen01",
       "onSale": "false",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -132,12 +346,19 @@
       "categoryName": "duet cover",
       "productName": "HENLEY",
       "price": 80,
-      "fabric": "coton",
+      "inStock": 10,
+      "fabric": "cotton",
       "image": "",
       "size": [
         "twin duet cover",
         "queen duet cover set",
         "king duet cover set"
+      ],
+      "colorName": "oat",
+      "colorHexa": "#d3c8c2",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/HENLEY_OAT_FRONT_WEB_color_corrected_1080x.jpg?v=1620846930",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/henley_oat_side_web_color_corrected_1080x.jpg?v=1620846932"
       ],
       "colorList": [
         {
@@ -159,7 +380,50 @@
       ]
     },
     {
-      "id": "duet03",
+      "id": "duetHen02",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "1",
+      "categoryName": "duet cover",
+      "productName": "HENLEY",
+      "price": 80,
+      "inStock": 10,
+      "fabric": "cotton",
+      "image": "",
+      "size": [
+        "twin duet cover",
+        "queen duet cover set",
+        "king duet cover set"
+      ],
+      "colorName": "sky",
+      "colorHexa": "#9ea6a5",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/HENLEY_SKY_FRONT_WEB_1080x.jpg?v=1620846942",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/henley_sky_lifestye_web_0a685b77-9488-49ef-9e15-aa7017de7227_1080x.jpg?v=1635802755"
+      ],
+      "colorList": [
+        {
+          "colorName": "oat",
+          "colorHexa": "#d3c8c2",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/HENLEY_OAT_FRONT_WEB_color_corrected_1080x.jpg?v=1620846930",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/henley_oat_side_web_color_corrected_1080x.jpg?v=1620846932"
+          ]
+        },
+        {
+          "colorName": "sky",
+          "colorHexa": "#9ea6a5",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/HENLEY_SKY_FRONT_WEB_1080x.jpg?v=1620846942",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/henley_sky_lifestye_web_0a685b77-9488-49ef-9e15-aa7017de7227_1080x.jpg?v=1635802755"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "duetBlair01",
       "onSale": "false",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -167,12 +431,19 @@
       "categoryName": "duet cover",
       "productName": "BLAIR",
       "price": 115,
+      "inStock": 5,
       "fabric": "linen",
       "image": "",
       "size": [
         "twin duet cover",
         "queen duet cover set",
         "king duet cover set"
+      ],
+      "colorName": "midnight",
+      "colorHexa": "#4c4a54   ",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/blair_midnight_web_1080x.jpg?v=1620845479",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Blair_Midnight_web_side_1080x.jpg?v=1620845481"
       ],
       "colorList": [
         {
@@ -210,7 +481,184 @@
       ]
     },
     {
-      "id": "duet04",
+      "id": "duetBlair02",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "1",
+      "categoryName": "duet cover",
+      "productName": "BLAIR",
+      "price": 115,
+      "inStock": 5,
+      "fabric": "linen",
+      "image": "",
+      "size": [
+        "twin duet cover",
+        "queen duet cover set",
+        "king duet cover set"
+      ],
+      "colorName": "ocean",
+      "colorHexa": "#d0d2cf",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/blairoceanweb_1080x.jpg?v=1626305884",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/blair_ocean_web_side_2_1080x.jpg?v=1626305884"
+      ],
+      "colorList": [
+        {
+          "colorName": "midnight",
+          "colorHexa": "#4c4a54   ",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/blair_midnight_web_1080x.jpg?v=1620845479",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Blair_Midnight_web_side_1080x.jpg?v=1620845481"
+          ]
+        },
+        {
+          "colorName": "ocean",
+          "colorHexa": "#d0d2cf",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/blairoceanweb_1080x.jpg?v=1626305884",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/blair_ocean_web_side_2_1080x.jpg?v=1626305884"
+          ]
+        },
+        {
+          "colorName": "taupe",
+          "colorHexa": "#dacec1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/blair_taupe_web_1080x.jpg?v=1620846082",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Blair_Taupe_Web_Side_1080x.jpg?v=1620846084"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/blair_white_Web_1080x.jpg?v=1620845502",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/blair_white_side_web_1080x.jpg?v=1620845504"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "duetBlair03",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "1",
+      "categoryName": "duet cover",
+      "productName": "BLAIR",
+      "price": 115,
+      "inStock": 5,
+      "fabric": "linen",
+      "image": "",
+      "size": [
+        "twin duet cover",
+        "queen duet cover set",
+        "king duet cover set"
+      ],
+      "colorName": "taupe",
+      "colorHexa": "#dacec1",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/blair_taupe_web_1080x.jpg?v=1620846082",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Blair_Taupe_Web_Side_1080x.jpg?v=1620846084"
+      ],
+      "colorList": [
+        {
+          "colorName": "midnight",
+          "colorHexa": "#4c4a54   ",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/blair_midnight_web_1080x.jpg?v=1620845479",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Blair_Midnight_web_side_1080x.jpg?v=1620845481"
+          ]
+        },
+        {
+          "colorName": "ocean",
+          "colorHexa": "#d0d2cf",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/blairoceanweb_1080x.jpg?v=1626305884",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/blair_ocean_web_side_2_1080x.jpg?v=1626305884"
+          ]
+        },
+        {
+          "colorName": "taupe",
+          "colorHexa": "#dacec1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/blair_taupe_web_1080x.jpg?v=1620846082",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Blair_Taupe_Web_Side_1080x.jpg?v=1620846084"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/blair_white_Web_1080x.jpg?v=1620845502",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/blair_white_side_web_1080x.jpg?v=1620845504"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "duetBlair04",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "1",
+      "categoryName": "duet cover",
+      "productName": "BLAIR",
+      "price": 115,
+      "inStock": 5,
+      "fabric": "linen",
+      "image": "",
+      "size": [
+        "twin duet cover",
+        "queen duet cover set",
+        "king duet cover set"
+      ],
+      "colorName": "white",
+      "colorHexa": "#ffffff",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/blair_white_Web_1080x.jpg?v=1620845502",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/blair_white_side_web_1080x.jpg?v=1620845504"
+      ],
+      "colorList": [
+        {
+          "colorName": "midnight",
+          "colorHexa": "#4c4a54   ",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/blair_midnight_web_1080x.jpg?v=1620845479",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Blair_Midnight_web_side_1080x.jpg?v=1620845481"
+          ]
+        },
+        {
+          "colorName": "ocean",
+          "colorHexa": "#d0d2cf",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/blairoceanweb_1080x.jpg?v=1626305884",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/blair_ocean_web_side_2_1080x.jpg?v=1626305884"
+          ]
+        },
+        {
+          "colorName": "taupe",
+          "colorHexa": "#dacec1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/blair_taupe_web_1080x.jpg?v=1620846082",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Blair_Taupe_Web_Side_1080x.jpg?v=1620846084"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/blair_white_Web_1080x.jpg?v=1620845502",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/blair_white_side_web_1080x.jpg?v=1620845504"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "duetLouwie01",
       "onSale": "true",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -218,12 +666,19 @@
       "categoryName": "duet cover",
       "productName": "LOUWIE",
       "price": 313,
+      "inStock": 0,
       "fabric": "linen",
       "image": "",
       "size": [
         "twin duet cover",
         "queen duet cover set",
         "king duet cover set"
+      ],
+      "colorName": "cream",
+      "colorHexa": "#fcf6e1",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/louwie_cream_front_web_1080x.jpg?v=1620845584",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/louwie_cream_front_web_1080x.jpg?v=1620845584"
       ],
       "colorList": [
         {
@@ -252,8 +707,111 @@
         }
       ]
     },
+
     {
-      "id": "coverlet01",
+      "id": "duetLouwie02",
+      "onSale": "true",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "1",
+      "categoryName": "duet cover",
+      "productName": "LOUWIE",
+      "price": 313,
+      "inStock": 2,
+      "fabric": "linen",
+      "image": "",
+      "size": [
+        "twin duet cover",
+        "queen duet cover set",
+        "king duet cover set"
+      ],
+      "colorName": "flax",
+      "colorHexa": "#dfd6ca",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/louwie_flax_front_web_1080x.jpg?v=1620845832",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/louwie_flax_side_web_1080x.jpg?v=1620845834"
+      ],
+      "colorList": [
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/louwie_cream_front_web_1080x.jpg?v=1620845584",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/louwie_cream_front_web_1080x.jpg?v=1620845584"
+          ]
+        },
+        {
+          "colorName": "flax",
+          "colorHexa": "#dfd6ca",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/louwie_flax_front_web_1080x.jpg?v=1620845832",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/louwie_flax_side_web_1080x.jpg?v=1620845834"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/louwie_white_front_web_1080x.jpg?v=1620845838",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/louwie_white_side_web_1080x.jpg?v=1620845840"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "duetLouwie03",
+      "onSale": "true",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "1",
+      "categoryName": "duet cover",
+      "productName": "LOUWIE",
+      "price": 313,
+      "inStock": 2,
+      "fabric": "linen",
+      "image": "",
+      "size": [
+        "twin duet cover",
+        "queen duet cover set",
+        "king duet cover set"
+      ],
+      "colorName": "white",
+      "colorHexa": "#ffffff",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/louwie_white_front_web_1080x.jpg?v=1620845838",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/louwie_white_side_web_1080x.jpg?v=1620845840"
+      ],
+      "colorList": [
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/louwie_cream_front_web_1080x.jpg?v=1620845584",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/louwie_cream_front_web_1080x.jpg?v=1620845584"
+          ]
+        },
+        {
+          "colorName": "flax",
+          "colorHexa": "#dfd6ca",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/louwie_flax_front_web_1080x.jpg?v=1620845832",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/louwie_flax_side_web_1080x.jpg?v=1620845834"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/louwie_white_front_web_1080x.jpg?v=1620845838",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/louwie_white_side_web_1080x.jpg?v=1620845840"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "coverletArrow01",
       "onSale": "false",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -261,9 +819,17 @@
       "categoryName": "coverlet",
       "productName": "ARROWHEAD",
       "price": 57,
+      "inStock": 10,
       "fabric": "cotton",
       "image": "",
       "size": ["twin", "queen", "king"],
+      "colorName": "cream",
+      "colorHexa": "#fcf6e1",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-cream-web-front_1080x.jpg?v=1624560050",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-cream-web-front_1080x.jpg?v=1624560050",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-cream-web-front_1080x.jpg?v=1624560050"
+      ],
       "colorList": [
         {
           "colorName": "cream",
@@ -295,8 +861,114 @@
         }
       ]
     },
+
     {
-      "id": "coverlet02",
+      "id": "coverletArrow02",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "2",
+      "categoryName": "coverlet",
+      "productName": "ARROWHEAD",
+      "price": 57,
+      "inStock": 10,
+      "fabric": "cotton",
+      "image": "",
+      "size": ["twin", "queen", "king"],
+      "colorName": "mist",
+      "colorHexa": "#b1b8b1",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/mist-arrowhead-web_1080x.jpg?v=1624558980",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrow-head-mist-web-side_1080x.jpg?v=1624558985",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-mist_ab971da2-ad4d-44d8-92c7-a24daac5fa2d_1080x.png?v=1627928685",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-mist_ab971da2-ad4d-44d8-92c7-a24daac5fa2d_1080x.png?v=1627928685"
+      ],
+      "colorList": [
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-cream-web-front_1080x.jpg?v=1624560050",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-cream-web-front_1080x.jpg?v=1624560050",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-cream-web-front_1080x.jpg?v=1624560050"
+          ]
+        },
+        {
+          "colorName": "mist",
+          "colorHexa": "#b1b8b1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/mist-arrowhead-web_1080x.jpg?v=1624558980",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrow-head-mist-web-side_1080x.jpg?v=1624558985",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-mist_ab971da2-ad4d-44d8-92c7-a24daac5fa2d_1080x.png?v=1627928685",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-mist_ab971da2-ad4d-44d8-92c7-a24daac5fa2d_1080x.png?v=1627928685"
+          ]
+        },
+        {
+          "colorName": "slate",
+          "colorHexa": "#474a56",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-slate-front-2_1080x.jpg?v=1624560234",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-slate-3_1080x.png?v=1627928669",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-slate_1080x.png?v=1627928669"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "coverletArrow03",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "2",
+      "categoryName": "coverlet",
+      "productName": "ARROWHEAD",
+      "price": 57,
+      "inStock": 10,
+      "fabric": "cotton",
+      "image": "",
+      "size": ["twin", "queen", "king"],
+      "colorName": "slate",
+      "colorHexa": "#474a56",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-slate-front-2_1080x.jpg?v=1624560234",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-slate-3_1080x.png?v=1627928669",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-slate_1080x.png?v=1627928669"
+      ],
+      "colorList": [
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-cream-web-front_1080x.jpg?v=1624560050",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-cream-web-front_1080x.jpg?v=1624560050",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-cream-web-front_1080x.jpg?v=1624560050"
+          ]
+        },
+        {
+          "colorName": "mist",
+          "colorHexa": "#b1b8b1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/mist-arrowhead-web_1080x.jpg?v=1624558980",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrow-head-mist-web-side_1080x.jpg?v=1624558985",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-mist_ab971da2-ad4d-44d8-92c7-a24daac5fa2d_1080x.png?v=1627928685",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-mist_ab971da2-ad4d-44d8-92c7-a24daac5fa2d_1080x.png?v=1627928685"
+          ]
+        },
+        {
+          "colorName": "slate",
+          "colorHexa": "#474a56",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-slate-front-2_1080x.jpg?v=1624560234",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-slate-3_1080x.png?v=1627928669",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-slate_1080x.png?v=1627928669"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "coverletBrussel01",
       "onSale": "false",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -304,9 +976,19 @@
       "categoryName": "coverlet",
       "productName": "BRUSSELS",
       "price": 598,
+      "inStock": 3,
       "fabric": "cotton velvet",
       "image": "",
       "size": ["twin", "queen", "king"],
+      "colorName": "ocean",
+      "colorHexa": "#d0d2cf",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_front_web_1080x.jpg?v=1620845745",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brusselsocean_1080x.jpg?v=1620845746",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_side_web_1080x.jpg?v=1620845747",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_Ocean_2_1080x.png?v=1620845748",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_web_1080x.jpg?v=1620845749"
+      ],
       "colorList": [
         {
           "colorName": "ocean",
@@ -362,8 +1044,318 @@
         }
       ]
     },
+
     {
-      "id": "coverlet03",
+      "id": "coverletBrussel02",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "2",
+      "categoryName": "coverlet",
+      "productName": "BRUSSELS",
+      "price": 598,
+      "inStock": 3,
+      "fabric": "cotton velvet",
+      "image": "",
+      "size": ["twin", "queen", "king"],
+      "colorName": "pewter",
+      "colorHexa": "#68605d",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_web_1080x.jpg?v=1620845749",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_web_1080x.jpg?v=1620845749",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_pewter_side_web_1080x.jpg?v=1620845753"
+      ],
+      "colorList": [
+        {
+          "colorName": "ocean",
+          "colorHexa": "#d0d2cf",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_front_web_1080x.jpg?v=1620845745",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brusselsocean_1080x.jpg?v=1620845746",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_side_web_1080x.jpg?v=1620845747",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_Ocean_2_1080x.png?v=1620845748",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_web_1080x.jpg?v=1620845749"
+          ]
+        },
+        {
+          "colorName": "pewter",
+          "colorHexa": "#68605d",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_web_1080x.jpg?v=1620845749",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_web_1080x.jpg?v=1620845749",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_pewter_side_web_1080x.jpg?v=1620845753"
+          ]
+        },
+        {
+          "colorName": "taupe",
+          "colorHexa": "#dacec1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_pewter_side_web_1080x.jpg?v=1620845753",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brusselstaupe_1080x.jpg?v=1620845755",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_taupe_side_1080x.jpg?v=1620845755",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_taupe_web_1080x.jpg?v=1620845756"
+          ]
+        },
+        {
+          "colorName": "walnut",
+          "colorHexa": "#5e4d48",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_taupe_web_1080x.jpg?v=1620845756",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussleswalnut_1080x.jpg?v=1620845758",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussleswalnut_1080x.jpg?v=1620845758",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussleswalnut_1080x.jpg?v=1620845758",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_Walnut_detail_1080x.jpg?v=1620845761"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_White_Front_1080x.jpg?v=1620845762",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_White_Front_1080x.jpg?v=1620845762",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_White_Front_1080x.jpg?v=1620845762",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brusels_white_web_1080x.jpg?v=1620845765",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brusels_white_web_1080x.jpg?v=1620845765"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "coverletBrussel03",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "2",
+      "categoryName": "coverlet",
+      "productName": "BRUSSELS",
+      "price": 598,
+      "inStock": 3,
+      "fabric": "cotton velvet",
+      "image": "",
+      "size": ["twin", "queen", "king"],
+      "colorName": "taupe",
+      "colorHexa": "#dacec1",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_pewter_side_web_1080x.jpg?v=1620845753",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brusselstaupe_1080x.jpg?v=1620845755",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_taupe_side_1080x.jpg?v=1620845755",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_taupe_web_1080x.jpg?v=1620845756"
+      ],
+      "colorList": [
+        {
+          "colorName": "ocean",
+          "colorHexa": "#d0d2cf",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_front_web_1080x.jpg?v=1620845745",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brusselsocean_1080x.jpg?v=1620845746",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_side_web_1080x.jpg?v=1620845747",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_Ocean_2_1080x.png?v=1620845748",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_web_1080x.jpg?v=1620845749"
+          ]
+        },
+        {
+          "colorName": "pewter",
+          "colorHexa": "#68605d",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_web_1080x.jpg?v=1620845749",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_web_1080x.jpg?v=1620845749",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_pewter_side_web_1080x.jpg?v=1620845753"
+          ]
+        },
+        {
+          "colorName": "taupe",
+          "colorHexa": "#dacec1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_pewter_side_web_1080x.jpg?v=1620845753",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brusselstaupe_1080x.jpg?v=1620845755",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_taupe_side_1080x.jpg?v=1620845755",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_taupe_web_1080x.jpg?v=1620845756"
+          ]
+        },
+        {
+          "colorName": "walnut",
+          "colorHexa": "#5e4d48",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_taupe_web_1080x.jpg?v=1620845756",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussleswalnut_1080x.jpg?v=1620845758",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussleswalnut_1080x.jpg?v=1620845758",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussleswalnut_1080x.jpg?v=1620845758",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_Walnut_detail_1080x.jpg?v=1620845761"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_White_Front_1080x.jpg?v=1620845762",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_White_Front_1080x.jpg?v=1620845762",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_White_Front_1080x.jpg?v=1620845762",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brusels_white_web_1080x.jpg?v=1620845765",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brusels_white_web_1080x.jpg?v=1620845765"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "coverletBrussel04",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "2",
+      "categoryName": "coverlet",
+      "productName": "BRUSSELS",
+      "price": 598,
+      "inStock": 3,
+      "fabric": "cotton velvet",
+      "image": "",
+      "size": ["twin", "queen", "king"],
+      "colorName": "walnut",
+      "colorHexa": "#5e4d48",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_taupe_web_1080x.jpg?v=1620845756",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brussleswalnut_1080x.jpg?v=1620845758",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brussleswalnut_1080x.jpg?v=1620845758",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brussleswalnut_1080x.jpg?v=1620845758",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_Walnut_detail_1080x.jpg?v=1620845761"
+      ],
+      "colorList": [
+        {
+          "colorName": "ocean",
+          "colorHexa": "#d0d2cf",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_front_web_1080x.jpg?v=1620845745",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brusselsocean_1080x.jpg?v=1620845746",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_side_web_1080x.jpg?v=1620845747",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_Ocean_2_1080x.png?v=1620845748",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_web_1080x.jpg?v=1620845749"
+          ]
+        },
+        {
+          "colorName": "pewter",
+          "colorHexa": "#68605d",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_web_1080x.jpg?v=1620845749",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_web_1080x.jpg?v=1620845749",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_pewter_side_web_1080x.jpg?v=1620845753"
+          ]
+        },
+        {
+          "colorName": "taupe",
+          "colorHexa": "#dacec1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_pewter_side_web_1080x.jpg?v=1620845753",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brusselstaupe_1080x.jpg?v=1620845755",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_taupe_side_1080x.jpg?v=1620845755",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_taupe_web_1080x.jpg?v=1620845756"
+          ]
+        },
+        {
+          "colorName": "walnut",
+          "colorHexa": "#5e4d48",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_taupe_web_1080x.jpg?v=1620845756",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussleswalnut_1080x.jpg?v=1620845758",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussleswalnut_1080x.jpg?v=1620845758",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussleswalnut_1080x.jpg?v=1620845758",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_Walnut_detail_1080x.jpg?v=1620845761"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_White_Front_1080x.jpg?v=1620845762",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_White_Front_1080x.jpg?v=1620845762",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_White_Front_1080x.jpg?v=1620845762",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brusels_white_web_1080x.jpg?v=1620845765",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brusels_white_web_1080x.jpg?v=1620845765"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "coverletBrussel05",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "2",
+      "categoryName": "coverlet",
+      "productName": "BRUSSELS",
+      "price": 598,
+      "inStock": 3,
+      "fabric": "cotton velvet",
+      "image": "",
+      "size": ["twin", "queen", "king"],
+      "colorName": "white",
+      "colorHexa": "#ffffff",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_White_Front_1080x.jpg?v=1620845762",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_White_Front_1080x.jpg?v=1620845762",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_White_Front_1080x.jpg?v=1620845762",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brusels_white_web_1080x.jpg?v=1620845765",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brusels_white_web_1080x.jpg?v=1620845765"
+      ],
+      "colorList": [
+        {
+          "colorName": "ocean",
+          "colorHexa": "#d0d2cf",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_front_web_1080x.jpg?v=1620845745",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brusselsocean_1080x.jpg?v=1620845746",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_side_web_1080x.jpg?v=1620845747",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_Ocean_2_1080x.png?v=1620845748",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_web_1080x.jpg?v=1620845749"
+          ]
+        },
+        {
+          "colorName": "pewter",
+          "colorHexa": "#68605d",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_web_1080x.jpg?v=1620845749",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_web_1080x.jpg?v=1620845749",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_pewter_side_web_1080x.jpg?v=1620845753"
+          ]
+        },
+        {
+          "colorName": "taupe",
+          "colorHexa": "#dacec1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_pewter_side_web_1080x.jpg?v=1620845753",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brusselstaupe_1080x.jpg?v=1620845755",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_taupe_side_1080x.jpg?v=1620845755",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_taupe_web_1080x.jpg?v=1620845756"
+          ]
+        },
+        {
+          "colorName": "walnut",
+          "colorHexa": "#5e4d48",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_taupe_web_1080x.jpg?v=1620845756",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussleswalnut_1080x.jpg?v=1620845758",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussleswalnut_1080x.jpg?v=1620845758",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussleswalnut_1080x.jpg?v=1620845758",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_Walnut_detail_1080x.jpg?v=1620845761"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_White_Front_1080x.jpg?v=1620845762",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_White_Front_1080x.jpg?v=1620845762",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Brussels_White_Front_1080x.jpg?v=1620845762",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brusels_white_web_1080x.jpg?v=1620845765",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brusels_white_web_1080x.jpg?v=1620845765"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "coverletHampton01",
       "onSale": "false",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -371,9 +1363,17 @@
       "categoryName": "coverlet",
       "productName": "HAMPTON",
       "price": 138,
+      "inStock": 0,
       "fabric": "linen",
       "image": "",
       "size": ["twin", "queen", "king"],
+      "colorName": "cream",
+      "colorHexa": "#fcf6e1",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_Cream_Front_Web_1080x.jpg?v=1620845767",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/hamptoncream_1080x.jpg?v=1620845768",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/hamptoncream_1080x.jpg?v=1620845768"
+      ],
       "colorList": [
         {
           "colorName": "cream",
@@ -405,8 +1405,114 @@
         }
       ]
     },
+
     {
-      "id": "bedskirt01",
+      "id": "coverletHampton02",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "2",
+      "categoryName": "coverlet",
+      "productName": "HAMPTON",
+      "price": 138,
+      "inStock": 0,
+      "fabric": "linen",
+      "image": "",
+      "size": ["twin", "queen", "king"],
+      "colorName": "flax",
+      "colorHexa": "#dfd6ca",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Flax_Hampton_Front_Web_1080x.jpg?v=1620845770",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Flax_Hampton_side_Web_1080x.jpg?v=1620845772",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/hampton_lifestyle_3_1080x.jpg?v=1620845773",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/hampton_lifestyle_3_1080x.jpg?v=1620845773"
+      ],
+      "colorList": [
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_Cream_Front_Web_1080x.jpg?v=1620845767",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/hamptoncream_1080x.jpg?v=1620845768",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/hamptoncream_1080x.jpg?v=1620845768"
+          ]
+        },
+        {
+          "colorName": "flax",
+          "colorHexa": "#dfd6ca",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Flax_Hampton_Front_Web_1080x.jpg?v=1620845770",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Flax_Hampton_side_Web_1080x.jpg?v=1620845772",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/hampton_lifestyle_3_1080x.jpg?v=1620845773",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/hampton_lifestyle_3_1080x.jpg?v=1620845773"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/hampton_lifestyle_3_1080x.jpg?v=1620845773",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/hampton_lifestyle_3_1080x.jpg?v=1620845773",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/hampton_white_lifestyle_2_1080x.jpg?v=1620845831"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "coverletHampton03",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "2",
+      "categoryName": "coverlet",
+      "productName": "HAMPTON",
+      "price": 138,
+      "inStock": 3,
+      "fabric": "linen",
+      "image": "",
+      "size": ["twin", "queen", "king"],
+      "colorName": "white",
+      "colorHexa": "#ffffff",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/hampton_lifestyle_3_1080x.jpg?v=1620845773",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/hampton_lifestyle_3_1080x.jpg?v=1620845773",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/hampton_white_lifestyle_2_1080x.jpg?v=1620845831"
+      ],
+      "colorList": [
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_Cream_Front_Web_1080x.jpg?v=1620845767",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/hamptoncream_1080x.jpg?v=1620845768",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/hamptoncream_1080x.jpg?v=1620845768"
+          ]
+        },
+        {
+          "colorName": "flax",
+          "colorHexa": "#dfd6ca",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Flax_Hampton_Front_Web_1080x.jpg?v=1620845770",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Flax_Hampton_side_Web_1080x.jpg?v=1620845772",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/hampton_lifestyle_3_1080x.jpg?v=1620845773",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/hampton_lifestyle_3_1080x.jpg?v=1620845773"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/hampton_lifestyle_3_1080x.jpg?v=1620845773",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/hampton_lifestyle_3_1080x.jpg?v=1620845773",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/hampton_white_lifestyle_2_1080x.jpg?v=1620845831"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "bedskirtGathered01",
       "onSale": "false",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -414,9 +1520,16 @@
       "categoryName": "bedskirt",
       "productName": "GATHERED LINEN BEDSKIRT",
       "price": 253,
+      "inStock": 10,
       "fabric": "linen",
       "image": "",
       "size": ["twin", "queen", "king"],
+      "colorName": "cream",
+      "colorHexa": "#fcf6e1",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/cream_gathered_linen_web_bedskirt_1080x.jpg?v=1620845662",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/cream_gathered_linen_web_bedskirt_1080x.jpg?v=1620845662"
+      ],
       "colorList": [
         {
           "colorName": "cream",
@@ -444,8 +1557,103 @@
         }
       ]
     },
+
     {
-      "id": "bedskirt02",
+      "id": "bedskirtGathered02",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "3",
+      "categoryName": "bedskirt",
+      "productName": "GATHERED LINEN BEDSKIRT",
+      "price": 253,
+      "inStock": 10,
+      "fabric": "linen",
+      "image": "",
+      "size": ["twin", "queen", "king"],
+      "colorName": "flax",
+      "colorHexa": "#dfd6ca",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/flax_gathered_linen_web_bedskirt_1080x.jpg?v=1620845664",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/flax_gathered_1080x.jpg?v=1620845665"
+      ],
+      "colorList": [
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/cream_gathered_linen_web_bedskirt_1080x.jpg?v=1620845662",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/cream_gathered_linen_web_bedskirt_1080x.jpg?v=1620845662"
+          ]
+        },
+        {
+          "colorName": "flax",
+          "colorHexa": "#dfd6ca",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/flax_gathered_linen_web_bedskirt_1080x.jpg?v=1620845664",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/flax_gathered_1080x.jpg?v=1620845665"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/flax_gathered_1080x.jpg?v=1620845665",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Bedskirt_Gathered_White_1080x.jpg?v=1620845667"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "bedskirtGathered03",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "3",
+      "categoryName": "bedskirt",
+      "productName": "GATHERED LINEN BEDSKIRT",
+      "price": 253,
+      "inStock": 10,
+      "fabric": "linen",
+      "image": "",
+      "size": ["twin", "queen", "king"],
+      "colorName": "white",
+      "colorHexa": "#ffffff",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/flax_gathered_1080x.jpg?v=1620845665",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Bedskirt_Gathered_White_1080x.jpg?v=1620845667"
+      ],
+      "colorList": [
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/cream_gathered_linen_web_bedskirt_1080x.jpg?v=1620845662",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/cream_gathered_linen_web_bedskirt_1080x.jpg?v=1620845662"
+          ]
+        },
+        {
+          "colorName": "flax",
+          "colorHexa": "#dfd6ca",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/flax_gathered_linen_web_bedskirt_1080x.jpg?v=1620845664",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/flax_gathered_1080x.jpg?v=1620845665"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/flax_gathered_1080x.jpg?v=1620845665",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Bedskirt_Gathered_White_1080x.jpg?v=1620845667"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "bedskirtPlated01",
       "onSale": "false",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -453,9 +1661,16 @@
       "categoryName": "bedskirt",
       "productName": "PLEATED LINEN BEDSKIRT",
       "price": 253,
+      "inStock": 5,
       "fabric": "linen",
       "image": "",
       "size": ["twin", "queen", "king"],
+      "colorName": "cream",
+      "colorHexa": "#fcf6e1",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Pleated_Linen_Web_Cream_Bedskirt_1080x.jpg?v=1620845672",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Pleated_Linen_Web_Cream_Bedskirt_1080x.jpg?v=1620845672"
+      ],
       "colorList": [
         {
           "colorName": "cream",
@@ -483,6 +1698,101 @@
         }
       ]
     },
+
+    {
+      "id": "bedskirtPlated02",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "3",
+      "categoryName": "bedskirt",
+      "productName": "PLEATED LINEN BEDSKIRT",
+      "price": 253,
+      "inStock": 5,
+      "fabric": "linen",
+      "image": "",
+      "size": ["twin", "queen", "king"],
+      "colorName": "flax",
+      "colorHexa": "#dfd6ca",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Pleated_Linen_Web_Flax_Bedskirt_1080x.jpg?v=1620845673",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Bedskirt_Pleated_Flax_1080x.jpg?v=1620845674"
+      ],
+      "colorList": [
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Pleated_Linen_Web_Cream_Bedskirt_1080x.jpg?v=1620845672",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Pleated_Linen_Web_Cream_Bedskirt_1080x.jpg?v=1620845672"
+          ]
+        },
+        {
+          "colorName": "flax",
+          "colorHexa": "#dfd6ca",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Pleated_Linen_Web_Flax_Bedskirt_1080x.jpg?v=1620845673",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Bedskirt_Pleated_Flax_1080x.jpg?v=1620845674"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Pleated_Linen_Web_Cream_Bedskirt_1080x.jpg?v=1620845672",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Bedskirt_Pleated_Cream_1080x.jpg?v=1620845672"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "bedskirtPlated03",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "3",
+      "categoryName": "bedskirt",
+      "productName": "PLEATED LINEN BEDSKIRT",
+      "price": 253,
+      "inStock": 5,
+      "fabric": "linen",
+      "image": "",
+      "size": ["twin", "queen", "king"],
+      "colorName": "white",
+      "colorHexa": "#ffffff",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Pleated_Linen_Web_Cream_Bedskirt_1080x.jpg?v=1620845672",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Bedskirt_Pleated_Cream_1080x.jpg?v=1620845672"
+      ],
+      "colorList": [
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Pleated_Linen_Web_Cream_Bedskirt_1080x.jpg?v=1620845672",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Pleated_Linen_Web_Cream_Bedskirt_1080x.jpg?v=1620845672"
+          ]
+        },
+        {
+          "colorName": "flax",
+          "colorHexa": "#dfd6ca",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Pleated_Linen_Web_Flax_Bedskirt_1080x.jpg?v=1620845673",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Bedskirt_Pleated_Flax_1080x.jpg?v=1620845674"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Pleated_Linen_Web_Cream_Bedskirt_1080x.jpg?v=1620845672",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Bedskirt_Pleated_Cream_1080x.jpg?v=1620845672"
+          ]
+        }
+      ]
+    },
+
     {
       "id": "big-pillow01",
       "onSale": "false",
@@ -492,21 +1802,31 @@
       "categoryName": "big-pillow",
       "productName": "ARROWHEAD BIG PILLOW 28 X 36 WITH INSERT",
       "price": 89,
+      "inStock": 10,
       "fabric": "cotton",
       "image": "",
       "size": ["pig pillow with insert"],
       "colorList": [
         {
           "colorName": "cream",
-          "colorHexa": "#fcf6e1"
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-cream-web_1080x.jpg?v=1635802642"
+          ]
         },
         {
           "colorName": "mist",
-          "colorHexa": "#b1b8b1"
+          "colorHexa": "#b1b8b1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-mist_1080x.png?v=1635802642"
+          ]
         },
         {
           "colorName": "slate",
-          "colorHexa": "#474a56"
+          "colorHexa": "#474a56",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-slate-pillow_1080x.png?v=1635802642"
+          ]
         }
       ],
       "imgSrc": [
@@ -516,6 +1836,7 @@
         "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-mist_1080x.png?v=1635802642"
       ]
     },
+
     {
       "id": "big-pillow02",
       "onSale": "false",
@@ -525,6 +1846,7 @@
       "categoryName": "big-pillow",
       "productName": "HENLEY BIG PILLOW 28 X 36 WITH INSERT",
       "price": 264,
+      "inStock": 10,
       "fabric": "cotton",
       "image": "",
       "size": ["pig pillow with insert"],
@@ -532,14 +1854,14 @@
         {
           "colorName": "oat",
           "colorHexa": "#d3c8c2",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Big_Pillow_Oat_NS_720x.jpg?v=1635802741"
           ]
         },
         {
           "colorName": "sky",
           "colorHexa": "#9ea6a5",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Big_Pillow_Sky_NS_720x.jpg?v=1635802741"
           ]
         }
@@ -551,6 +1873,7 @@
         "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Big_Pillow_Sky_NS_720x.jpg?v=1635802741"
       ]
     },
+
     {
       "id": "big-pillow03",
       "onSale": "false",
@@ -560,6 +1883,7 @@
       "categoryName": "big-pillow",
       "productName": "ZUMA BIG PILLOW 28 X 36 WITH INSERT ",
       "price": 253,
+      "inStock": 5,
       "fabric": "cotton",
       "image": "",
       "size": ["pig pillow with insert"],
@@ -567,28 +1891,28 @@
         {
           "colorName": "cream",
           "colorHexa": "#fcf6e1",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/zuma_cream_big_pillow_web_1080x.jpg?v=1620846690"
           ]
         },
         {
           "colorName": "mist",
           "colorHexa": "#b1b8b1",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/zumamistbigpillow_e369f5ad-a204-4380-9d7d-6db1d6960f5b_1080x.jpg?v=1620847120"
           ]
         },
         {
           "colorName": "natural",
           "colorHexa": "#a3988f",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/Zuma_Natural_Big_Pillow_Web_1080x.jpg?v=1620846687"
           ]
         },
         {
           "colorName": "charcoal",
           "colorHexa": "#474647",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/zuma_big_pillow_1080x.jpg?v=1620846686"
           ]
         }
@@ -600,6 +1924,7 @@
         "https://cdn.shopify.com/s/files/1/1331/1269/products/zuma_big_pillow_1080x.jpg?v=1620846686"
       ]
     },
+
     {
       "id": "big-pillow04",
       "onSale": "false",
@@ -609,6 +1934,7 @@
       "categoryName": "big-pillow",
       "productName": "HAMPTON BIG PILLOW 28 X 36 WITH INSERT",
       "price": 299,
+      "inStock": 10,
       "fabric": "linen",
       "image": "",
       "size": ["pig pillow with insert"],
@@ -616,21 +1942,21 @@
         {
           "colorName": "cream",
           "colorHexa": "#fcf6e1",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_BigPillow_Cream_d41c06da-5527-4fbf-bc27-37d22c778a6d_1080x.jpg?v=1620846096"
           ]
         },
         {
           "colorName": "flax",
           "colorHexa": "#dfd6ca",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_BigPillow_Flax_d79a3a55-6be2-403b-9204-d62d97677695_1080x.jpg?v=1620846093"
           ]
         },
         {
           "colorName": "white",
           "colorHexa": "#ffffff",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_BigPillow_white_595a7189-bfb7-42c9-8ed9-e4bdb80a67c1_1080x.jpg?v=1620846094"
           ]
         }
@@ -641,6 +1967,7 @@
         "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_BigPillow_white_595a7189-bfb7-42c9-8ed9-e4bdb80a67c1_1080x.jpg?v=1620846094"
       ]
     },
+
     {
       "id": "body-pillow01",
       "onSale": "false",
@@ -650,6 +1977,7 @@
       "categoryName": "body-pillow",
       "productName": "HENLEY BODY PILLOW WITH INSERT",
       "price": 264,
+      "inStock": 10,
       "fabric": "cotton",
       "image": "",
       "size": ["body pillow with insert"],
@@ -657,14 +1985,14 @@
         {
           "colorName": "oat",
           "colorHexa": "#d3c8c2",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Body_Pillow_Oat_1080x.jpg?v=1635802744"
           ]
         },
         {
           "colorName": "sky",
           "colorHexa": "#d3c8c2",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Body_Pillow_Oat_1080x.jpg?v=1635802744"
           ]
         }
@@ -675,6 +2003,7 @@
         "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Body_Pillow_Oat_1080x.jpg?v=1635802744"
       ]
     },
+
     {
       "id": "body-pillow02",
       "onSale": "false",
@@ -684,6 +2013,7 @@
       "categoryName": "body-pillow",
       "productName": "LOGAN BODY PILLOW WITH INSERT",
       "price": 299,
+      "inStock": 10,
       "fabric": "linen",
       "image": "",
       "size": ["body pillow with insert"],
@@ -691,21 +2021,21 @@
         {
           "colorName": "terra cotta",
           "colorHexa": "#986553",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan_Body_Pillow_Terra_Cotta_1080x.jpg?v=1635803044"
           ]
         },
         {
           "colorName": "navy",
           "colorHexa": "#414e73",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/LoganBodyPillowBlue_1080x.jpg?v=1649712673"
           ]
         },
         {
           "colorName": "olive",
           "colorHexa": "#bdbeb1",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan_Body_Pillow_Olive_1080x.jpg?v=1635803044"
           ]
         }
@@ -717,6 +2047,7 @@
         "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan_Body_Pillow_Olive_1080x.jpg?v=1635803044"
       ]
     },
+
     {
       "id": "body-pillow03",
       "onSale": "false",
@@ -726,6 +2057,7 @@
       "categoryName": "body-pillow",
       "productName": "CHARLIE BODY PILLOW WITH INSERT",
       "price": 299,
+      "inStock": 10,
       "fabric": "linen",
       "image": "",
       "size": ["body pillow with insert"],
@@ -733,21 +2065,21 @@
         {
           "colorName": "flax",
           "colorHexa": "#dfd6ca",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/charlie-flax-body-pillow_01867ff3-588f-40c6-bac4-99ea15300d6f_1080x.png?v=1641233981"
           ]
         },
         {
           "colorName": "white",
           "colorHexa": "#ffffff",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/charlie-cream-body-pillow-2_57fde37e-ad36-4478-9bed-04f0935f3882_1080x.png?v=1641233981"
           ]
         },
         {
           "colorName": "cream",
           "colorHexa": "#fcf6e1",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/charliecreambodypillowside_1080x.jpg?v=1641233981"
           ]
         }
@@ -759,6 +2091,7 @@
         "https://cdn.shopify.com/s/files/1/1331/1269/products/charliecreambodypillowside_1080x.jpg?v=1641233981"
       ]
     },
+
     {
       "id": "body-pillow04",
       "onSale": "false",
@@ -768,6 +2101,7 @@
       "categoryName": "body-pillow",
       "productName": "MATHILDE BODY PILLOW WITH INSERT",
       "price": 299,
+      "inStock": 5,
       "fabric": "linen",
       "image": "",
       "size": ["body pillow with insert"],
@@ -775,21 +2109,21 @@
         {
           "colorName": "flax",
           "colorHexa": "#dfd6ca",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/mathilde_flax_body_web_ba6da58e-bd0d-428d-9b91-0fd8af2bc6c2_1080x.jpg?v=1641232005"
           ]
         },
         {
           "colorName": "white",
           "colorHexa": "#ffffff",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/charlie-flax-body-pillow_01867ff3-588f-40c6-bac4-99ea15300d6f_1080x.png?v=1641233981"
           ]
         },
         {
           "colorName": "cream",
           "colorHexa": "#fcf6e1",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/mathilde_cream_body_pillow_side_1080x.jpg?v=1641232005"
           ]
         }
@@ -801,6 +2135,7 @@
         "https://cdn.shopify.com/s/files/1/1331/1269/products/mathilde_cream_body_pillow_side_1080x.jpg?v=1641232005"
       ]
     },
+
     {
       "id": "curtain01",
       "onSale": "true",
@@ -810,6 +2145,7 @@
       "categoryName": "curtain",
       "productName": "OLIVIA CURTAIN",
       "price": 96,
+      "inStock": 10,
       "fabric": "cotton",
       "image": "",
       "size": [],
@@ -817,21 +2153,21 @@
         {
           "colorName": "midnight",
           "colorHexa": "#4c4a54",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/Olivia_Midnight_900x.jpg?v=1620845615"
           ]
         },
         {
           "colorName": "white",
           "colorHexa": "#ffffff",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/Olivia_White_900x.jpg?v=1620845613"
           ]
         },
         {
           "colorName": "ocean",
           "colorHexa": "#d0d2cf",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/2_900x.jpg?v=1620845614"
           ]
         }
@@ -842,6 +2178,7 @@
         "https://cdn.shopify.com/s/files/1/1331/1269/products/2_900x.jpg?v=1620845614"
       ]
     },
+
     {
       "id": "curtain02",
       "onSale": "true",
@@ -851,6 +2188,7 @@
       "categoryName": "curtain",
       "productName": "SMOCKED CURTAIN",
       "price": 217,
+      "inStock": 10,
       "fabric": "linen",
       "image": "",
       "size": [],
@@ -858,21 +2196,21 @@
         {
           "colorName": "cream",
           "colorHexa": "#fcf6e1",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/3_900x.jpg?v=1620845616"
           ]
         },
         {
           "colorName": "flax",
           "colorHexa": "#dfd6ca",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/Curtains_Smocked_Flax_900x.jpg?v=1620845617"
           ]
         },
         {
           "colorName": "white",
           "colorHexa": "#ffffff",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/SmockedCurtain_White_900x.jpg?v=1620845618"
           ]
         }
@@ -883,6 +2221,7 @@
         "https://cdn.shopify.com/s/files/1/1331/1269/products/SmockedCurtain_White_900x.jpg?v=1620845618"
       ]
     },
+
     {
       "id": "curtain03",
       "onSale": "true",
@@ -892,6 +2231,7 @@
       "categoryName": "curtain",
       "productName": "TIE TOP CURTAIN",
       "price": 136,
+      "inStock": 5,
       "fabric": "linen",
       "image": "",
       "size": [],
@@ -899,21 +2239,21 @@
         {
           "colorName": "cream",
           "colorHexa": "#fcf6e1",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/4_900x.jpg?v=1620845620"
           ]
         },
         {
           "colorName": "flax",
           "colorHexa": "#dfd6ca",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/Curtains_Tie_Top_Flax_900x.jpg?v=1620845619"
           ]
         },
         {
           "colorName": "white",
           "colorHexa": "#ffffff",
-          "imgSrc": [
+          "imageSrc": [
             "https://cdn.shopify.com/s/files/1/1331/1269/products/Curtains_Tie_Top_White_900x.jpg?v=1620845621"
           ]
         }
