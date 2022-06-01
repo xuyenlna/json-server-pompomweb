@@ -141,11 +141,7 @@
       "inStock": 5,
       "fabric": "bamboo",
       "image": "",
-      "size": [
-        "twin duet cover",
-        "queen duet cover set",
-        "king duet cover set"
-      ],
+      "size": ["twin", "queen", "king"],
       "colorName": "ocean",
       "colorHexa": "#d0d2cf",
       "imageSrc": [
@@ -208,11 +204,7 @@
       "inStock": 5,
       "fabric": "bamboo",
       "image": "",
-      "size": [
-        "twin duet cover",
-        "queen duet cover set",
-        "king duet cover set"
-      ],
+      "size": ["twin", "queen", "king"],
       "colorName": "sand",
       "colorHexa": "#cec2bf",
       "imageSrc": [
@@ -275,11 +267,7 @@
       "inStock": 5,
       "fabric": "bamboo",
       "image": "",
-      "size": [
-        "twin duet cover",
-        "queen duet cover set",
-        "king duet cover set"
-      ],
+      "size": ["twin", "queen", "king"],
       "colorName": "white",
       "colorHexa": "#ffffff",
       "imageSrc": [
@@ -345,11 +333,7 @@
       "inStock": 10,
       "fabric": "cotton",
       "image": "",
-      "size": [
-        "twin duet cover",
-        "queen duet cover set",
-        "king duet cover set"
-      ],
+      "size": ["twin", "queen", "king"],
       "colorName": "oat",
       "colorHexa": "#d3c8c2",
       "imageSrc": [
@@ -387,11 +371,7 @@
       "inStock": 10,
       "fabric": "cotton",
       "image": "",
-      "size": [
-        "twin duet cover",
-        "queen duet cover set",
-        "king duet cover set"
-      ],
+      "size": ["twin", "queen", "king"],
       "colorName": "sky",
       "colorHexa": "#9ea6a5",
       "imageSrc": [
@@ -430,11 +410,7 @@
       "inStock": 5,
       "fabric": "linen",
       "image": "",
-      "size": [
-        "twin duet cover",
-        "queen duet cover set",
-        "king duet cover set"
-      ],
+      "size": ["twin", "queen", "king"],
       "colorName": "midnight",
       "colorHexa": "#4c4a54   ",
       "imageSrc": [
@@ -488,11 +464,7 @@
       "inStock": 5,
       "fabric": "linen",
       "image": "",
-      "size": [
-        "twin duet cover",
-        "queen duet cover set",
-        "king duet cover set"
-      ],
+      "size": ["twin", "queen", "king"],
       "colorName": "ocean",
       "colorHexa": "#d0d2cf",
       "imageSrc": [
@@ -547,11 +519,7 @@
       "inStock": 5,
       "fabric": "linen",
       "image": "",
-      "size": [
-        "twin duet cover",
-        "queen duet cover set",
-        "king duet cover set"
-      ],
+      "size": ["twin", "queen", "king"],
       "colorName": "taupe",
       "colorHexa": "#dacec1",
       "imageSrc": [
@@ -606,11 +574,7 @@
       "inStock": 5,
       "fabric": "linen",
       "image": "",
-      "size": [
-        "twin duet cover",
-        "queen duet cover set",
-        "king duet cover set"
-      ],
+      "size": ["twin", "queen", "king"],
       "colorName": "white",
       "colorHexa": "#ffffff",
       "imageSrc": [
@@ -665,11 +629,7 @@
       "inStock": 0,
       "fabric": "linen",
       "image": "",
-      "size": [
-        "twin duet cover",
-        "queen duet cover set",
-        "king duet cover set"
-      ],
+      "size": ["twin", "queen", "king"],
       "colorName": "cream",
       "colorHexa": "#fcf6e1",
       "imageSrc": [
@@ -716,11 +676,7 @@
       "inStock": 2,
       "fabric": "linen",
       "image": "",
-      "size": [
-        "twin duet cover",
-        "queen duet cover set",
-        "king duet cover set"
-      ],
+      "size": ["twin", "queen", "king"],
       "colorName": "flax",
       "colorHexa": "#dfd6ca",
       "imageSrc": [
@@ -767,11 +723,7 @@
       "inStock": 2,
       "fabric": "linen",
       "image": "",
-      "size": [
-        "twin duet cover",
-        "queen duet cover set",
-        "king duet cover set"
-      ],
+      "size": ["twin", "queen", "king"],
       "colorName": "white",
       "colorHexa": "#ffffff",
       "imageSrc": [
