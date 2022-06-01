@@ -76,11 +76,7 @@
       "inStock": 10,
       "fabric": "bamboo",
       "image": "",
-      "size": [
-        "twin duet cover",
-        "queen duet cover set",
-        "king duet cover set"
-      ],
+      "size": ["twin", "queen", "king"],
       "colorName": "ivory",
       "colorHexa": "#fffff8",
       "imageSrc": [
