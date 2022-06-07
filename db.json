@@ -487,6 +487,7 @@
         }
       ]
     },
+
     {
       "id": "duetBlair02",
       "onSale": "false",
@@ -1892,7 +1893,7 @@
     },
 
     {
-      "id": "big-pillow01",
+      "id": "big-pillow-Arrowhead-01",
       "onSale": "false",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -1909,6 +1910,12 @@
       "fabric": "cotton",
       "image": "",
       "size": ["pig pillow with insert"],
+      "colorName": "cream",
+      "colorHexa": "#fcf6e1",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-cream-web_1080x.jpg?v=1635802642",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-stack-web_1080x.jpg?v=1624484124"
+      ],
       "colorList": [
         {
           "colorName": "cream",
@@ -1931,17 +1938,107 @@
             "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-slate-pillow_1080x.png?v=1635802642"
           ]
         }
-      ],
-      "imageSrc": [
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-stack-web_1080x.jpg?v=1624484124",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-cream-web_1080x.jpg?v=1635802642",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-slate-pillow_1080x.png?v=1635802642",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-mist_1080x.png?v=1635802642"
       ]
     },
 
     {
-      "id": "big-pillow02",
+      "id": "big-pillow-Arrowhead-02",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "4",
+      "categoryName": "big-pillow",
+      "productName": "ARROWHEAD BIG PILLOW 28 X 36 WITH INSERT",
+      "price": 89,
+      "salePrice": "",
+      "promotionCode": "",
+      "desc": "Perfect for a basic, clean, and beautifully pure look.  The duvet cover set includes 2 shams. ",
+      "detail": " Inserts sold separately - 100% Long Staple Cotton (300 TC)",
+      "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
+      "inStock": 10,
+      "fabric": "cotton",
+      "size": ["pig pillow with insert"],
+      "colorName": "mist",
+      "colorHexa": "#b1b8b1",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-mist_1080x.png?v=1635802642",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-stack-web_1080x.jpg?v=1624484124"
+      ],
+      "colorList": [
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-cream-web_1080x.jpg?v=1635802642"
+          ]
+        },
+        {
+          "colorName": "mist",
+          "colorHexa": "#b1b8b1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-mist_1080x.png?v=1635802642"
+          ]
+        },
+        {
+          "colorName": "slate",
+          "colorHexa": "#474a56",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-slate-pillow_1080x.png?v=1635802642"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "big-pillow-Arrowhead-03",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "4",
+      "categoryName": "big-pillow",
+      "productName": "ARROWHEAD BIG PILLOW 28 X 36 WITH INSERT",
+      "price": 89,
+      "salePrice": "",
+      "promotionCode": "",
+      "desc": "Perfect for a basic, clean, and beautifully pure look.  The duvet cover set includes 2 shams. ",
+      "detail": " Inserts sold separately - 100% Long Staple Cotton (300 TC)",
+      "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
+      "inStock": 10,
+      "fabric": "cotton",
+      "size": ["pig pillow with insert"],
+      "colorName": "slate",
+      "colorHexa": "#474a56",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-slate-pillow_1080x.png?v=1635802642",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-stack-web_1080x.jpg?v=1624484124"
+      ],
+      "colorList": [
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-cream-web_1080x.jpg?v=1635802642"
+          ]
+        },
+        {
+          "colorName": "mist",
+          "colorHexa": "#b1b8b1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-mist_1080x.png?v=1635802642"
+          ]
+        },
+        {
+          "colorName": "slate",
+          "colorHexa": "#474a56",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-slate-pillow_1080x.png?v=1635802642"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "big-pillow-henrry-01",
       "onSale": "false",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -1956,8 +2053,13 @@
       "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
       "inStock": 10,
       "fabric": "cotton",
-      "image": "",
       "size": ["pig pillow with insert"],
+      "colorName": "oat",
+      "colorHexa": "#d3c8c2",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Big_Pillow_Oat_NS_720x.jpg?v=1635802741",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/HENLEY_BOTH_COLROS_BIG_PILLOW_WEB_1080x.jpg?v=1620846960"
+      ],
       "colorList": [
         {
           "colorName": "oat",
@@ -1970,20 +2072,63 @@
           "colorName": "sky",
           "colorHexa": "#9ea6a5",
           "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Big_Pillow_Sky_NS_720x.jpg?v=1635802741",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/henley_sky_lifestye_web_1080x.jpg?v=1635802741",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/henley_sky_lifestye_web_1080x.jpg?v=1635802741",
             "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Big_Pillow_Sky_NS_720x.jpg?v=1635802741"
           ]
         }
-      ],
-      "imageSrc": [
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/HENLEY_BOTH_COLROS_BIG_PILLOW_WEB_1080x.jpg?v=1620846960",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/henley_sky_lifestye_web_1080x.jpg?v=1635802741",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/henley_sky_lifestye_web_1080x.jpg?v=1635802741",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Big_Pillow_Sky_NS_720x.jpg?v=1635802741"
       ]
     },
 
     {
-      "id": "big-pillow03",
+      "id": "big-pillow-henrry-02",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "4",
+      "categoryName": "big-pillow",
+      "productName": "HENLEY BIG PILLOW 28 X 36 WITH INSERT",
+      "price": 264,
+      "salePrice": "",
+      "promotionCode": "",
+      "desc": "Perfect for a basic, clean, and beautifully pure look.  The duvet cover set includes 2 shams. ",
+      "detail": " Inserts sold separately - 100% Long Staple Cotton (300 TC)",
+      "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
+      "inStock": 10,
+      "fabric": "cotton",
+      "size": ["pig pillow with insert"],
+      "colorName": "sky",
+      "colorHexa": "#9ea6a5",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Big_Pillow_Sky_NS_720x.jpg?v=1635802741",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/henley_sky_lifestye_web_1080x.jpg?v=1635802741",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/henley_sky_lifestye_web_1080x.jpg?v=1635802741",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Big_Pillow_Sky_NS_720x.jpg?v=1635802741"
+      ],
+      "colorList": [
+        {
+          "colorName": "oat",
+          "colorHexa": "#d3c8c2",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Big_Pillow_Oat_NS_720x.jpg?v=1635802741"
+          ]
+        },
+        {
+          "colorName": "sky",
+          "colorHexa": "#9ea6a5",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Big_Pillow_Sky_NS_720x.jpg?v=1635802741",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/henley_sky_lifestye_web_1080x.jpg?v=1635802741",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/henley_sky_lifestye_web_1080x.jpg?v=1635802741",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Big_Pillow_Sky_NS_720x.jpg?v=1635802741"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "big-pillow-zuma-01",
       "onSale": "false",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -2000,6 +2145,11 @@
       "fabric": "cotton",
       "image": "",
       "size": ["pig pillow with insert"],
+      "colorName": "cream",
+      "colorHexa": "#fcf6e1",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/zuma_cream_big_pillow_web_1080x.jpg?v=1620846690"
+      ],
       "colorList": [
         {
           "colorName": "cream",
@@ -2029,17 +2179,176 @@
             "https://cdn.shopify.com/s/files/1/1331/1269/products/zuma_big_pillow_1080x.jpg?v=1620846686"
           ]
         }
-      ],
-      "imageSrc": [
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/zuma_cream_big_pillow_web_1080x.jpg?v=1620846690",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/zumamistbigpillow_e369f5ad-a204-4380-9d7d-6db1d6960f5b_1080x.jpg?v=1620847120",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/Zuma_Natural_Big_Pillow_Web_1080x.jpg?v=1620846687",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/zuma_big_pillow_1080x.jpg?v=1620846686"
       ]
     },
 
     {
-      "id": "big-pillow04",
+      "id": "big-pillow-zuma-02",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "4",
+      "categoryName": "big-pillow",
+      "productName": "ZUMA BIG PILLOW 28 X 36 WITH INSERT ",
+      "price": 253,
+      "salePrice": "",
+      "promotionCode": "",
+      "desc": "Perfect for a basic, clean, and beautifully pure look.  The duvet cover set includes 2 shams. ",
+      "detail": " Inserts sold separately - 100% Long Staple Cotton (300 TC)",
+      "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
+      "inStock": 5,
+      "fabric": "cotton",
+      "image": "",
+      "size": ["pig pillow with insert"],
+      "colorName": "mist",
+      "colorHexa": "#b1b8b1",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/zumamistbigpillow_e369f5ad-a204-4380-9d7d-6db1d6960f5b_1080x.jpg?v=1620847120"
+      ],
+      "colorList": [
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/zuma_cream_big_pillow_web_1080x.jpg?v=1620846690"
+          ]
+        },
+        {
+          "colorName": "mist",
+          "colorHexa": "#b1b8b1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/zumamistbigpillow_e369f5ad-a204-4380-9d7d-6db1d6960f5b_1080x.jpg?v=1620847120"
+          ]
+        },
+        {
+          "colorName": "natural",
+          "colorHexa": "#a3988f",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Zuma_Natural_Big_Pillow_Web_1080x.jpg?v=1620846687"
+          ]
+        },
+        {
+          "colorName": "charcoal",
+          "colorHexa": "#474647",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/zuma_big_pillow_1080x.jpg?v=1620846686"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "big-pillow-zuma-03",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "4",
+      "categoryName": "big-pillow",
+      "productName": "ZUMA BIG PILLOW 28 X 36 WITH INSERT ",
+      "price": 253,
+      "salePrice": "",
+      "promotionCode": "",
+      "desc": "Perfect for a basic, clean, and beautifully pure look.  The duvet cover set includes 2 shams. ",
+      "detail": " Inserts sold separately - 100% Long Staple Cotton (300 TC)",
+      "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
+      "inStock": 5,
+      "fabric": "cotton",
+      "image": "",
+      "size": ["pig pillow with insert"],
+      "colorName": "natural",
+      "colorHexa": "#a3988f",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Zuma_Natural_Big_Pillow_Web_1080x.jpg?v=1620846687"
+      ],
+      "colorList": [
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/zuma_cream_big_pillow_web_1080x.jpg?v=1620846690"
+          ]
+        },
+        {
+          "colorName": "mist",
+          "colorHexa": "#b1b8b1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/zumamistbigpillow_e369f5ad-a204-4380-9d7d-6db1d6960f5b_1080x.jpg?v=1620847120"
+          ]
+        },
+        {
+          "colorName": "natural",
+          "colorHexa": "#a3988f",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Zuma_Natural_Big_Pillow_Web_1080x.jpg?v=1620846687"
+          ]
+        },
+        {
+          "colorName": "charcoal",
+          "colorHexa": "#474647",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/zuma_big_pillow_1080x.jpg?v=1620846686"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "big-pillow-zuma-04",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "4",
+      "categoryName": "big-pillow",
+      "productName": "ZUMA BIG PILLOW 28 X 36 WITH INSERT ",
+      "price": 253,
+      "salePrice": "",
+      "promotionCode": "",
+      "desc": "Perfect for a basic, clean, and beautifully pure look.  The duvet cover set includes 2 shams. ",
+      "detail": " Inserts sold separately - 100% Long Staple Cotton (300 TC)",
+      "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
+      "inStock": 5,
+      "fabric": "cotton",
+      "image": "",
+      "size": ["pig pillow with insert"],
+      "colorName": "charcoal",
+      "colorHexa": "#474647",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/zuma_big_pillow_1080x.jpg?v=1620846686"
+      ],
+      "colorList": [
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/zuma_cream_big_pillow_web_1080x.jpg?v=1620846690"
+          ]
+        },
+        {
+          "colorName": "mist",
+          "colorHexa": "#b1b8b1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/zumamistbigpillow_e369f5ad-a204-4380-9d7d-6db1d6960f5b_1080x.jpg?v=1620847120"
+          ]
+        },
+        {
+          "colorName": "natural",
+          "colorHexa": "#a3988f",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Zuma_Natural_Big_Pillow_Web_1080x.jpg?v=1620846687"
+          ]
+        },
+        {
+          "colorName": "charcoal",
+          "colorHexa": "#474647",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/zuma_big_pillow_1080x.jpg?v=1620846686"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "big-pillow-hampton-01",
       "onSale": "false",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -2056,6 +2365,11 @@
       "fabric": "linen",
       "image": "",
       "size": ["pig pillow with insert"],
+      "colorName": "cream",
+      "colorHexa": "#fcf6e1",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_BigPillow_Cream_d41c06da-5527-4fbf-bc27-37d22c778a6d_1080x.jpg?v=1620846096"
+      ],
       "colorList": [
         {
           "colorName": "cream",
@@ -2078,16 +2392,107 @@
             "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_BigPillow_white_595a7189-bfb7-42c9-8ed9-e4bdb80a67c1_1080x.jpg?v=1620846094"
           ]
         }
-      ],
-      "imageSrc": [
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_BigPillow_Cream_d41c06da-5527-4fbf-bc27-37d22c778a6d_1080x.jpg?v=1620846096",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_BigPillow_Flax_d79a3a55-6be2-403b-9204-d62d97677695_1080x.jpg?v=1620846093",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_BigPillow_white_595a7189-bfb7-42c9-8ed9-e4bdb80a67c1_1080x.jpg?v=1620846094"
       ]
     },
 
     {
-      "id": "body-pillow01",
+      "id": "big-pillow-hampton-02",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "4",
+      "categoryName": "big-pillow",
+      "productName": "HAMPTON BIG PILLOW 28 X 36 WITH INSERT",
+      "price": 299,
+      "salePrice": "",
+      "promotionCode": "",
+      "desc": "Perfect for a basic, clean, and beautifully pure look.  The duvet cover set includes 2 shams. ",
+      "detail": " Inserts sold separately - 100% Long Staple Cotton (300 TC)",
+      "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
+      "inStock": 10,
+      "fabric": "linen",
+      "image": "",
+      "size": ["pig pillow with insert"],
+      "colorName": "flax",
+      "colorHexa": "#dfd6ca",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_BigPillow_Flax_d79a3a55-6be2-403b-9204-d62d97677695_1080x.jpg?v=1620846093"
+      ],
+      "colorList": [
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_BigPillow_Cream_d41c06da-5527-4fbf-bc27-37d22c778a6d_1080x.jpg?v=1620846096"
+          ]
+        },
+        {
+          "colorName": "flax",
+          "colorHexa": "#dfd6ca",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_BigPillow_Flax_d79a3a55-6be2-403b-9204-d62d97677695_1080x.jpg?v=1620846093"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_BigPillow_white_595a7189-bfb7-42c9-8ed9-e4bdb80a67c1_1080x.jpg?v=1620846094"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "big-pillow-hampton-03",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "4",
+      "categoryName": "big-pillow",
+      "productName": "HAMPTON BIG PILLOW 28 X 36 WITH INSERT",
+      "price": 299,
+      "salePrice": "",
+      "promotionCode": "",
+      "desc": "Perfect for a basic, clean, and beautifully pure look.  The duvet cover set includes 2 shams. ",
+      "detail": " Inserts sold separately - 100% Long Staple Cotton (300 TC)",
+      "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
+      "inStock": 10,
+      "fabric": "linen",
+      "image": "",
+      "size": ["pig pillow with insert"],
+      "colorName": "white",
+      "colorHexa": "#ffffff",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_BigPillow_white_595a7189-bfb7-42c9-8ed9-e4bdb80a67c1_1080x.jpg?v=1620846094"
+      ],
+      "colorList": [
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_BigPillow_Cream_d41c06da-5527-4fbf-bc27-37d22c778a6d_1080x.jpg?v=1620846096"
+          ]
+        },
+        {
+          "colorName": "flax",
+          "colorHexa": "#dfd6ca",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_BigPillow_Flax_d79a3a55-6be2-403b-9204-d62d97677695_1080x.jpg?v=1620846093"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_BigPillow_white_595a7189-bfb7-42c9-8ed9-e4bdb80a67c1_1080x.jpg?v=1620846094"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "body-pillow0-henley-01",
       "onSale": "false",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -2104,31 +2509,78 @@
       "fabric": "cotton",
       "image": "",
       "size": ["body pillow with insert"],
+      "colorName": "oat",
+      "colorHexa": "#d3c8c2",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Body_Pillow_Oat_1080x.jpg?v=1635802744",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/HENLEY_BODY_PILLOW_BOTH_COLORS_corrected_WEB_1080x.jpg?v=1620846957"
+      ],
       "colorList": [
         {
           "colorName": "oat",
           "colorHexa": "#d3c8c2",
           "imageSrc": [
-            "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Body_Pillow_Oat_1080x.jpg?v=1635802744"
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Body_Pillow_Oat_1080x.jpg?v=1635802744",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/HENLEY_BODY_PILLOW_BOTH_COLORS_corrected_WEB_1080x.jpg?v=1620846957"
           ]
         },
         {
           "colorName": "sky",
           "colorHexa": "#d3c8c2",
           "imageSrc": [
-            "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Body_Pillow_Oat_1080x.jpg?v=1635802744"
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Body_Pillow_Oat_1080x.jpg?v=1635802744",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/HENLEY_BODY_PILLOW_BOTH_COLORS_corrected_WEB_1080x.jpg?v=1620846957"
           ]
         }
-      ],
-      "imageSrc": [
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/HENLEY_BODY_PILLOW_BOTH_COLORS_corrected_WEB_1080x.jpg?v=1620846957",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Body_Pillow_Oat_1080x.jpg?v=1635802744",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Body_Pillow_Oat_1080x.jpg?v=1635802744"
       ]
     },
 
     {
-      "id": "body-pillow02",
+      "id": "body-pillow0-henley-02",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "5",
+      "categoryName": "body-pillow",
+      "productName": "HENLEY BODY PILLOW WITH INSERT",
+      "price": 264,
+      "salePrice": "",
+      "promotionCode": "",
+      "desc": "Perfect for a basic, clean, and beautifully pure look.  The duvet cover set includes 2 shams. ",
+      "detail": " Inserts sold separately - 100% Long Staple Cotton (300 TC)",
+      "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
+      "inStock": 10,
+      "fabric": "cotton",
+      "image": "",
+      "size": ["body pillow with insert"],
+      "colorName": "sky",
+      "colorHexa": "#d3c8c2",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Body_Pillow_Oat_1080x.jpg?v=1635802744",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/HENLEY_BODY_PILLOW_BOTH_COLORS_corrected_WEB_1080x.jpg?v=1620846957"
+      ],
+      "colorList": [
+        {
+          "colorName": "oat",
+          "colorHexa": "#d3c8c2",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Body_Pillow_Oat_1080x.jpg?v=1635802744",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/HENLEY_BODY_PILLOW_BOTH_COLORS_corrected_WEB_1080x.jpg?v=1620846957"
+          ]
+        },
+        {
+          "colorName": "sky",
+          "colorHexa": "#d3c8c2",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Henley_Body_Pillow_Oat_1080x.jpg?v=1635802744",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/HENLEY_BODY_PILLOW_BOTH_COLORS_corrected_WEB_1080x.jpg?v=1620846957"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "body-pillow-loagan-01",
       "onSale": "false",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -2145,34 +2597,144 @@
       "fabric": "linen",
       "image": "",
       "size": ["body pillow with insert"],
+      "colorName": "terra cotta",
+      "colorHexa": "#986553",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan_Body_Pillow_Terra_Cotta_1080x.jpg?v=1635803044",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan-Body-Pillows-3-colors-WEB_1080x.png?v=1620846320"
+      ],
+
       "colorList": [
         {
           "colorName": "terra cotta",
           "colorHexa": "#986553",
           "imageSrc": [
-            "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan_Body_Pillow_Terra_Cotta_1080x.jpg?v=1635803044"
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan_Body_Pillow_Terra_Cotta_1080x.jpg?v=1635803044",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan-Body-Pillows-3-colors-WEB_1080x.png?v=1620846320"
           ]
         },
         {
           "colorName": "navy",
           "colorHexa": "#414e73",
           "imageSrc": [
-            "https://cdn.shopify.com/s/files/1/1331/1269/products/LoganBodyPillowBlue_1080x.jpg?v=1649712673"
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/LoganBodyPillowBlue_1080x.jpg?v=1649712673",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan-Body-Pillows-3-colors-WEB_1080x.png?v=1620846320"
           ]
         },
         {
           "colorName": "olive",
           "colorHexa": "#bdbeb1",
           "imageSrc": [
-            "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan_Body_Pillow_Olive_1080x.jpg?v=1635803044"
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan_Body_Pillow_Olive_1080x.jpg?v=1635803044",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan-Body-Pillows-3-colors-WEB_1080x.png?v=1620846320"
           ]
         }
-      ],
+      ]
+    },
+
+    {
+      "id": "body-pillow-loagan-02",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "5",
+      "categoryName": "body-pillow",
+      "productName": "LOGAN BODY PILLOW WITH INSERT",
+      "price": 299,
+      "salePrice": "",
+      "promotionCode": "",
+      "desc": "Perfect for a basic, clean, and beautifully pure look.  The duvet cover set includes 2 shams. ",
+      "detail": " Inserts sold separately - 100% Long Staple Cotton (300 TC)",
+      "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
+      "inStock": 10,
+      "fabric": "linen",
+      "image": "",
+      "size": ["body pillow with insert"],
+      "colorName": "navy",
+      "colorHexa": "#414e73",
       "imageSrc": [
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan-Body-Pillows-3-colors-WEB_1080x.png?v=1620846320",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan_Body_Pillow_Terra_Cotta_1080x.jpg?v=1635803044",
         "https://cdn.shopify.com/s/files/1/1331/1269/products/LoganBodyPillowBlue_1080x.jpg?v=1649712673",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan_Body_Pillow_Olive_1080x.jpg?v=1635803044"
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan-Body-Pillows-3-colors-WEB_1080x.png?v=1620846320"
+      ],
+
+      "colorList": [
+        {
+          "colorName": "terra cotta",
+          "colorHexa": "#986553",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan_Body_Pillow_Terra_Cotta_1080x.jpg?v=1635803044",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan-Body-Pillows-3-colors-WEB_1080x.png?v=1620846320"
+          ]
+        },
+        {
+          "colorName": "navy",
+          "colorHexa": "#414e73",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/LoganBodyPillowBlue_1080x.jpg?v=1649712673",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan-Body-Pillows-3-colors-WEB_1080x.png?v=1620846320"
+          ]
+        },
+        {
+          "colorName": "olive",
+          "colorHexa": "#bdbeb1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan_Body_Pillow_Olive_1080x.jpg?v=1635803044",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan-Body-Pillows-3-colors-WEB_1080x.png?v=1620846320"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "body-pillow-loagan-03",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "5",
+      "categoryName": "body-pillow",
+      "productName": "LOGAN BODY PILLOW WITH INSERT",
+      "price": 299,
+      "salePrice": "",
+      "promotionCode": "",
+      "desc": "Perfect for a basic, clean, and beautifully pure look.  The duvet cover set includes 2 shams. ",
+      "detail": " Inserts sold separately - 100% Long Staple Cotton (300 TC)",
+      "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
+      "inStock": 10,
+      "fabric": "linen",
+      "image": "",
+      "size": ["body pillow with insert"],
+      "colorName": "olive",
+      "colorHexa": "#bdbeb1",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan_Body_Pillow_Olive_1080x.jpg?v=1635803044",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan-Body-Pillows-3-colors-WEB_1080x.png?v=1620846320"
+      ],
+
+      "colorList": [
+        {
+          "colorName": "terra cotta",
+          "colorHexa": "#986553",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan_Body_Pillow_Terra_Cotta_1080x.jpg?v=1635803044",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan-Body-Pillows-3-colors-WEB_1080x.png?v=1620846320"
+          ]
+        },
+        {
+          "colorName": "navy",
+          "colorHexa": "#414e73",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/LoganBodyPillowBlue_1080x.jpg?v=1649712673",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan-Body-Pillows-3-colors-WEB_1080x.png?v=1620846320"
+          ]
+        },
+        {
+          "colorName": "olive",
+          "colorHexa": "#bdbeb1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan_Body_Pillow_Olive_1080x.jpg?v=1635803044",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Logan-Body-Pillows-3-colors-WEB_1080x.png?v=1620846320"
+          ]
+        }
       ]
     },
 
@@ -2226,7 +2788,7 @@
     },
 
     {
-      "id": "body-pillow04",
+      "id": "body-pillow-mathilde-01",
       "onSale": "false",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -2243,39 +2805,146 @@
       "fabric": "linen",
       "image": "",
       "size": ["body pillow with insert"],
+      "colorName": "flax",
+      "colorHexa": "#dfd6ca",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/mathilde_flax_body_web_ba6da58e-bd0d-428d-9b91-0fd8af2bc6c2_1080x.jpg?v=1641232005",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/0_1296xcopy_1080x.jpg?v=1641232005"
+      ],
       "colorList": [
         {
           "colorName": "flax",
           "colorHexa": "#dfd6ca",
           "imageSrc": [
-            "https://cdn.shopify.com/s/files/1/1331/1269/products/mathilde_flax_body_web_ba6da58e-bd0d-428d-9b91-0fd8af2bc6c2_1080x.jpg?v=1641232005"
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/mathilde_flax_body_web_ba6da58e-bd0d-428d-9b91-0fd8af2bc6c2_1080x.jpg?v=1641232005",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/0_1296xcopy_1080x.jpg?v=1641232005"
           ]
         },
         {
           "colorName": "white",
           "colorHexa": "#ffffff",
           "imageSrc": [
-            "https://cdn.shopify.com/s/files/1/1331/1269/products/charlie-flax-body-pillow_01867ff3-588f-40c6-bac4-99ea15300d6f_1080x.png?v=1641233981"
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/charlie-flax-body-pillow_01867ff3-588f-40c6-bac4-99ea15300d6f_1080x.png?v=1641233981",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/0_1296xcopy_1080x.jpg?v=1641232005"
           ]
         },
         {
           "colorName": "cream",
           "colorHexa": "#fcf6e1",
           "imageSrc": [
-            "https://cdn.shopify.com/s/files/1/1331/1269/products/mathilde_cream_body_pillow_side_1080x.jpg?v=1641232005"
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/mathilde_cream_body_pillow_side_1080x.jpg?v=1641232005",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/0_1296xcopy_1080x.jpg?v=1641232005"
           ]
         }
-      ],
-      "imageSrc": [
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/0_1296xcopy_1080x.jpg?v=1641232005",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/mathilde_flax_body_web_ba6da58e-bd0d-428d-9b91-0fd8af2bc6c2_1080x.jpg?v=1641232005",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/charlie-flax-body-pillow_01867ff3-588f-40c6-bac4-99ea15300d6f_1080x.png?v=1641233981",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/mathilde_cream_body_pillow_side_1080x.jpg?v=1641232005"
       ]
     },
 
     {
-      "id": "curtain01",
+      "id": "body-pillow-mathilde-02",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "5",
+      "categoryName": "body-pillow",
+      "productName": "MATHILDE BODY PILLOW WITH INSERT",
+      "price": 299,
+      "salePrice": "",
+      "promotionCode": "",
+      "desc": "Perfect for a basic, clean, and beautifully pure look.  The duvet cover set includes 2 shams. ",
+      "detail": " Inserts sold separately - 100% Long Staple Cotton (300 TC)",
+      "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
+      "inStock": 5,
+      "fabric": "linen",
+      "image": "",
+      "size": ["body pillow with insert"],
+      "colorName": "white",
+      "colorHexa": "#ffffff",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/charlie-flax-body-pillow_01867ff3-588f-40c6-bac4-99ea15300d6f_1080x.png?v=1641233981",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/0_1296xcopy_1080x.jpg?v=1641232005"
+      ],
+      "colorList": [
+        {
+          "colorName": "flax",
+          "colorHexa": "#dfd6ca",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/mathilde_flax_body_web_ba6da58e-bd0d-428d-9b91-0fd8af2bc6c2_1080x.jpg?v=1641232005",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/0_1296xcopy_1080x.jpg?v=1641232005"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/charlie-flax-body-pillow_01867ff3-588f-40c6-bac4-99ea15300d6f_1080x.png?v=1641233981",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/0_1296xcopy_1080x.jpg?v=1641232005"
+          ]
+        },
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/mathilde_cream_body_pillow_side_1080x.jpg?v=1641232005",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/0_1296xcopy_1080x.jpg?v=1641232005"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "body-pillow-mathilde-03",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "5",
+      "categoryName": "body-pillow",
+      "productName": "MATHILDE BODY PILLOW WITH INSERT",
+      "price": 299,
+      "salePrice": "",
+      "promotionCode": "",
+      "desc": "Perfect for a basic, clean, and beautifully pure look.  The duvet cover set includes 2 shams. ",
+      "detail": " Inserts sold separately - 100% Long Staple Cotton (300 TC)",
+      "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
+      "inStock": 5,
+      "fabric": "linen",
+      "image": "",
+      "size": ["body pillow with insert"],
+      "colorName": "cream",
+      "colorHexa": "#fcf6e1",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/mathilde_cream_body_pillow_side_1080x.jpg?v=1641232005",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/0_1296xcopy_1080x.jpg?v=1641232005"
+      ],
+      "colorList": [
+        {
+          "colorName": "flax",
+          "colorHexa": "#dfd6ca",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/mathilde_flax_body_web_ba6da58e-bd0d-428d-9b91-0fd8af2bc6c2_1080x.jpg?v=1641232005",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/0_1296xcopy_1080x.jpg?v=1641232005"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/charlie-flax-body-pillow_01867ff3-588f-40c6-bac4-99ea15300d6f_1080x.png?v=1641233981",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/0_1296xcopy_1080x.jpg?v=1641232005"
+          ]
+        },
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/mathilde_cream_body_pillow_side_1080x.jpg?v=1641232005",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/0_1296xcopy_1080x.jpg?v=1641232005"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "curtain0-olivia-01",
       "onSale": "true",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -2292,6 +2961,11 @@
       "fabric": "cotton",
       "image": "",
       "size": [],
+      "colorName": "midnight",
+      "colorHexa": "#4c4a54",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Olivia_Midnight_900x.jpg?v=1620845615"
+      ],
       "colorList": [
         {
           "colorName": "midnight",
@@ -2314,16 +2988,107 @@
             "https://cdn.shopify.com/s/files/1/1331/1269/products/2_900x.jpg?v=1620845614"
           ]
         }
-      ],
-      "imageSrc": [
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/Olivia_Midnight_900x.jpg?v=1620845615",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/Olivia_White_900x.jpg?v=1620845613",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/2_900x.jpg?v=1620845614"
       ]
     },
 
     {
-      "id": "curtain02",
+      "id": "curtain0-olivia-02",
+      "onSale": "true",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "6",
+      "categoryName": "curtain",
+      "productName": "OLIVIA CURTAIN",
+      "price": 96,
+      "salePrice": 57.6,
+      "promotionCode": "40%",
+      "desc": "Perfect for a basic, clean, and beautifully pure look.  The duvet cover set includes 2 shams. ",
+      "detail": " Inserts sold separately - 100% Long Staple Cotton (300 TC)",
+      "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
+      "inStock": 10,
+      "fabric": "cotton",
+      "image": "",
+      "size": [],
+      "colorName": "white",
+      "colorHexa": "#ffffff",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Olivia_White_900x.jpg?v=1620845613"
+      ],
+      "colorList": [
+        {
+          "colorName": "midnight",
+          "colorHexa": "#4c4a54",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Olivia_Midnight_900x.jpg?v=1620845615"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Olivia_White_900x.jpg?v=1620845613"
+          ]
+        },
+        {
+          "colorName": "ocean",
+          "colorHexa": "#d0d2cf",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/2_900x.jpg?v=1620845614"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "curtain0-olivia-03",
+      "onSale": "true",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "6",
+      "categoryName": "curtain",
+      "productName": "OLIVIA CURTAIN",
+      "price": 96,
+      "salePrice": 57.6,
+      "promotionCode": "40%",
+      "desc": "Perfect for a basic, clean, and beautifully pure look.  The duvet cover set includes 2 shams. ",
+      "detail": " Inserts sold separately - 100% Long Staple Cotton (300 TC)",
+      "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
+      "inStock": 10,
+      "fabric": "cotton",
+      "image": "",
+      "size": [],
+      "colorName": "ocean",
+      "colorHexa": "#d0d2cf",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/2_900x.jpg?v=1620845614"
+      ],
+      "colorList": [
+        {
+          "colorName": "midnight",
+          "colorHexa": "#4c4a54",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Olivia_Midnight_900x.jpg?v=1620845615"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Olivia_White_900x.jpg?v=1620845613"
+          ]
+        },
+        {
+          "colorName": "ocean",
+          "colorHexa": "#d0d2cf",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/2_900x.jpg?v=1620845614"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "curtain0-smocked-01",
       "onSale": "true",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -2340,6 +3105,11 @@
       "fabric": "linen",
       "image": "",
       "size": [],
+      "colorName": "cream",
+      "colorHexa": "#fcf6e1",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/3_900x.jpg?v=1620845616"
+      ],
       "colorList": [
         {
           "colorName": "cream",
@@ -2362,16 +3132,107 @@
             "https://cdn.shopify.com/s/files/1/1331/1269/products/SmockedCurtain_White_900x.jpg?v=1620845618"
           ]
         }
-      ],
-      "imageSrc": [
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/3_900x.jpg?v=1620845616",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/Curtains_Smocked_Flax_900x.jpg?v=1620845617",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/SmockedCurtain_White_900x.jpg?v=1620845618"
       ]
     },
 
     {
-      "id": "curtain03",
+      "id": "curtain0-smocked-02",
+      "onSale": "true",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "6",
+      "categoryName": "curtain",
+      "productName": "SMOCKED CURTAIN",
+      "price": 217,
+      "salePrice": 57.6,
+      "promotionCode": "40%",
+      "desc": "Perfect for a basic, clean, and beautifully pure look.  The duvet cover set includes 2 shams. ",
+      "detail": " Inserts sold separately - 100% Long Staple Cotton (300 TC)",
+      "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
+      "inStock": 10,
+      "fabric": "linen",
+      "image": "",
+      "size": [],
+      "colorName": "flax",
+      "colorHexa": "#dfd6ca",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Curtains_Smocked_Flax_900x.jpg?v=1620845617"
+      ],
+      "colorList": [
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/3_900x.jpg?v=1620845616"
+          ]
+        },
+        {
+          "colorName": "flax",
+          "colorHexa": "#dfd6ca",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Curtains_Smocked_Flax_900x.jpg?v=1620845617"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/SmockedCurtain_White_900x.jpg?v=1620845618"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "curtain0-smocked-03",
+      "onSale": "true",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "6",
+      "categoryName": "curtain",
+      "productName": "SMOCKED CURTAIN",
+      "price": 217,
+      "salePrice": 57.6,
+      "promotionCode": "40%",
+      "desc": "Perfect for a basic, clean, and beautifully pure look.  The duvet cover set includes 2 shams. ",
+      "detail": " Inserts sold separately - 100% Long Staple Cotton (300 TC)",
+      "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
+      "inStock": 10,
+      "fabric": "linen",
+      "image": "",
+      "size": [],
+      "colorName": "white",
+      "colorHexa": "#ffffff",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/SmockedCurtain_White_900x.jpg?v=1620845618"
+      ],
+      "colorList": [
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/3_900x.jpg?v=1620845616"
+          ]
+        },
+        {
+          "colorName": "flax",
+          "colorHexa": "#dfd6ca",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Curtains_Smocked_Flax_900x.jpg?v=1620845617"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/SmockedCurtain_White_900x.jpg?v=1620845618"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "curtain-tie-01",
       "onSale": "true",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -2388,6 +3249,11 @@
       "fabric": "linen",
       "image": "",
       "size": [],
+      "colorName": "cream",
+      "colorHexa": "#fcf6e1",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/4_900x.jpg?v=1620845620"
+      ],
       "colorList": [
         {
           "colorName": "cream",
@@ -2410,11 +3276,102 @@
             "https://cdn.shopify.com/s/files/1/1331/1269/products/Curtains_Tie_Top_White_900x.jpg?v=1620845621"
           ]
         }
-      ],
+      ]
+    },
+
+    {
+      "id": "curtain-tie-02",
+      "onSale": "true",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "6",
+      "categoryName": "curtain",
+      "productName": "TIE TOP CURTAIN",
+      "price": 136,
+      "salePrice": 57.6,
+      "promotionCode": "40%",
+      "desc": "Perfect for a basic, clean, and beautifully pure look.  The duvet cover set includes 2 shams. ",
+      "detail": " Inserts sold separately - 100% Long Staple Cotton (300 TC)",
+      "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
+      "inStock": 5,
+      "fabric": "linen",
+      "image": "",
+      "size": [],
+      "colorName": "flax",
+      "colorHexa": "#dfd6ca",
       "imageSrc": [
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/4_900x.jpg?v=1620845620",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/Curtains_Tie_Top_Flax_900x.jpg?v=1620845619",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Curtains_Tie_Top_Flax_900x.jpg?v=1620845619"
+      ],
+      "colorList": [
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/4_900x.jpg?v=1620845620"
+          ]
+        },
+        {
+          "colorName": "flax",
+          "colorHexa": "#dfd6ca",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Curtains_Tie_Top_Flax_900x.jpg?v=1620845619"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Curtains_Tie_Top_White_900x.jpg?v=1620845621"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "curtain-tie-03",
+      "onSale": "true",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "6",
+      "categoryName": "curtain",
+      "productName": "TIE TOP CURTAIN",
+      "price": 136,
+      "salePrice": 57.6,
+      "promotionCode": "40%",
+      "desc": "Perfect for a basic, clean, and beautifully pure look.  The duvet cover set includes 2 shams. ",
+      "detail": " Inserts sold separately - 100% Long Staple Cotton (300 TC)",
+      "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
+      "inStock": 5,
+      "fabric": "linen",
+      "image": "",
+      "size": [],
+      "colorName": "white",
+      "colorHexa": "#ffffff",
+      "imageSrc": [
         "https://cdn.shopify.com/s/files/1/1331/1269/products/Curtains_Tie_Top_White_900x.jpg?v=1620845621"
+      ],
+      "colorList": [
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/4_900x.jpg?v=1620845620"
+          ]
+        },
+        {
+          "colorName": "flax",
+          "colorHexa": "#dfd6ca",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Curtains_Tie_Top_Flax_900x.jpg?v=1620845619"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/Curtains_Tie_Top_White_900x.jpg?v=1620845621"
+          ]
+        }
       ]
     }
   ],
