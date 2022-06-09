@@ -11,10 +11,10 @@
   "author": "xuyenlna",
   "license": "ISC",
   "dependencies": {
+    "json-server": "^0.17.0",
     "query-string": "^7.1.1"
   },
   "devDependencies": {
-    "json-server": "^0.17.0",
     "nodemon": "^2.0.16"
   }
 }
