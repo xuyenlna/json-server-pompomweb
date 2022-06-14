@@ -1100,8 +1100,8 @@
       "colorName": "pewter",
       "colorHexa": "#68605d",
       "imageSrc": [
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_web_1080x.jpg?v=1620845749",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_web_1080x.jpg?v=1620845749",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_pewter_front_web_1080x.jpg?v=1620845751",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brusslespewter_1080x.jpg?v=1620845752",
         "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_pewter_side_web_1080x.jpg?v=1620845753"
       ],
       "colorList": [
@@ -1120,8 +1120,8 @@
           "colorName": "pewter",
           "colorHexa": "#68605d",
           "imageSrc": [
-            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_web_1080x.jpg?v=1620845749",
-            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_ocean_web_1080x.jpg?v=1620845749",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_pewter_front_web_1080x.jpg?v=1620845751",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/brusslespewter_1080x.jpg?v=1620845752",
             "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_pewter_side_web_1080x.jpg?v=1620845753"
           ]
         },
@@ -1129,7 +1129,6 @@
           "colorName": "taupe",
           "colorHexa": "#dacec1",
           "imageSrc": [
-            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_pewter_side_web_1080x.jpg?v=1620845753",
             "https://cdn.shopify.com/s/files/1/1331/1269/products/brusselstaupe_1080x.jpg?v=1620845755",
             "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_taupe_side_1080x.jpg?v=1620845755",
             "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_taupe_web_1080x.jpg?v=1620845756"
@@ -1139,7 +1138,6 @@
           "colorName": "walnut",
           "colorHexa": "#5e4d48",
           "imageSrc": [
-            "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_taupe_web_1080x.jpg?v=1620845756",
             "https://cdn.shopify.com/s/files/1/1331/1269/products/brussleswalnut_1080x.jpg?v=1620845758",
             "https://cdn.shopify.com/s/files/1/1331/1269/products/brussleswalnut_1080x.jpg?v=1620845758",
             "https://cdn.shopify.com/s/files/1/1331/1269/products/brussleswalnut_1080x.jpg?v=1620845758",
@@ -1181,10 +1179,10 @@
       "colorName": "taupe",
       "colorHexa": "#dacec1",
       "imageSrc": [
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_pewter_side_web_1080x.jpg?v=1620845753",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/brusselstaupe_1080x.jpg?v=1620845755",
         "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_taupe_side_1080x.jpg?v=1620845755",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_taupe_web_1080x.jpg?v=1620845756"
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brussels_taupe_side_1080x.jpg?v=1620845755",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brusselstaupe_1080x.jpg?v=1620845755",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/brusselstaupe_1080x.jpg?v=1620845755"
       ],
       "colorList": [
         {
@@ -1544,9 +1542,10 @@
       "colorName": "white",
       "colorHexa": "#ffffff",
       "imageSrc": [
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/hampton_lifestyle_3_1080x.jpg?v=1620845773",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/hampton_lifestyle_3_1080x.jpg?v=1620845773",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/hampton_white_lifestyle_2_1080x.jpg?v=1620845831"
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_White_Front_Web_1080x.jpg?v=1620845827",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/Hampton_White_Side_Web_1080x.jpg?v=1620845829",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/hampton_white_lifestyle_2_1080x.jpg?v=1620845831",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/hamptonwhite_1080x.jpg?v=1620845828"
       ],
       "colorList": [
         {
@@ -1625,7 +1624,8 @@
           "colorName": "white",
           "colorHexa": "#ffffff",
           "imageSrc": [
-            "https://cdn.shopify.com/s/files/1/1331/1269/products/flax_gathered_1080x.jpg?v=1620845665",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/white_gathered_linen_bedskirt_web_1080x.jpg?v=1620845666",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/white_web_gathered_linen_bedskirt_with_wall_art_1080x.jpg?v=1620845668",
             "https://cdn.shopify.com/s/files/1/1331/1269/products/Bedskirt_Gathered_White_1080x.jpg?v=1620845667"
           ]
         }
@@ -1677,7 +1677,8 @@
           "colorName": "white",
           "colorHexa": "#ffffff",
           "imageSrc": [
-            "https://cdn.shopify.com/s/files/1/1331/1269/products/flax_gathered_1080x.jpg?v=1620845665",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/white_gathered_linen_bedskirt_web_1080x.jpg?v=1620845666",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/white_web_gathered_linen_bedskirt_with_wall_art_1080x.jpg?v=1620845668",
             "https://cdn.shopify.com/s/files/1/1331/1269/products/Bedskirt_Gathered_White_1080x.jpg?v=1620845667"
           ]
         }
@@ -1705,7 +1706,8 @@
       "colorName": "white",
       "colorHexa": "#ffffff",
       "imageSrc": [
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/flax_gathered_1080x.jpg?v=1620845665",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/white_gathered_linen_bedskirt_web_1080x.jpg?v=1620845666",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/white_web_gathered_linen_bedskirt_with_wall_art_1080x.jpg?v=1620845668",
         "https://cdn.shopify.com/s/files/1/1331/1269/products/Bedskirt_Gathered_White_1080x.jpg?v=1620845667"
       ],
       "colorList": [
@@ -1729,7 +1731,8 @@
           "colorName": "white",
           "colorHexa": "#ffffff",
           "imageSrc": [
-            "https://cdn.shopify.com/s/files/1/1331/1269/products/flax_gathered_1080x.jpg?v=1620845665",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/white_gathered_linen_bedskirt_web_1080x.jpg?v=1620845666",
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/white_web_gathered_linen_bedskirt_with_wall_art_1080x.jpg?v=1620845668",
             "https://cdn.shopify.com/s/files/1/1331/1269/products/Bedskirt_Gathered_White_1080x.jpg?v=1620845667"
           ]
         }
@@ -1913,14 +1916,15 @@
       "colorName": "cream",
       "colorHexa": "#fcf6e1",
       "imageSrc": [
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-cream-web_1080x.jpg?v=1635802642",
-        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-stack-web_1080x.jpg?v=1624484124"
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-stack-web_1080x.jpg?v=1624484124",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-cream-web_1080x.jpg?v=1635802642"
       ],
       "colorList": [
         {
           "colorName": "cream",
           "colorHexa": "#fcf6e1",
           "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-stack-web_1080x.jpg?v=1624484124",
             "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-cream-web_1080x.jpg?v=1635802642"
           ]
         },
@@ -1928,6 +1932,7 @@
           "colorName": "mist",
           "colorHexa": "#b1b8b1",
           "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-stack-web_1080x.jpg?v=1624484124",
             "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-mist_1080x.png?v=1635802642"
           ]
         },
@@ -1935,6 +1940,7 @@
           "colorName": "slate",
           "colorHexa": "#474a56",
           "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-stack-web_1080x.jpg?v=1624484124",
             "https://cdn.shopify.com/s/files/1/1331/1269/products/arrowhead-slate-pillow_1080x.png?v=1635802642"
           ]
         }
