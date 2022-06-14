@@ -2492,7 +2492,7 @@
     },
 
     {
-      "id": "body-pillow0-henley-01",
+      "id": "body-pillow-henley-01",
       "onSale": "false",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -2536,7 +2536,7 @@
     },
 
     {
-      "id": "body-pillow0-henley-02",
+      "id": "body-pillow-henley-02",
       "onSale": "false",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -2580,7 +2580,7 @@
     },
 
     {
-      "id": "body-pillow-loagan-01",
+      "id": "body-pillow-logan-01",
       "onSale": "false",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -2633,7 +2633,7 @@
     },
 
     {
-      "id": "body-pillow-loagan-02",
+      "id": "body-pillow-logan-02",
       "onSale": "false",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -2686,7 +2686,7 @@
     },
 
     {
-      "id": "body-pillow-loagan-03",
+      "id": "body-pillow-logan-03",
       "onSale": "false",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -2739,7 +2739,7 @@
     },
 
     {
-      "id": "body-pillow03",
+      "id": "body-pillow-charlie-01",
       "onSale": "false",
       "createdAt": "1653666216452",
       "updatedAt": "1653666216452",
@@ -2756,6 +2756,119 @@
       "fabric": "linen",
       "image": "",
       "size": ["body pillow with insert"],
+      "colorName": "flax",
+      "colorHexa": "#dfd6ca",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/charlie-flax-body-pillow_01867ff3-588f-40c6-bac4-99ea15300d6f_1080x.png?v=1641233981"
+      ],
+      "colorList": [
+        {
+          "colorName": "flax",
+          "colorHexa": "#dfd6ca",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/charlie-flax-body-pillow_01867ff3-588f-40c6-bac4-99ea15300d6f_1080x.png?v=1641233981"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/charlie-cream-body-pillow-2_57fde37e-ad36-4478-9bed-04f0935f3882_1080x.png?v=1641233981"
+          ]
+        },
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/charliecreambodypillowside_1080x.jpg?v=1641233981"
+          ]
+        }
+      ],
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/charlie_white_web_1512x2copy_1080x.jpg?v=1641233981",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/charlie-flax-body-pillow_01867ff3-588f-40c6-bac4-99ea15300d6f_1080x.png?v=1641233981",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/LoganBodyPillowBlue_1080x.jpg?v=1649712673",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/charliecreambodypillowside_1080x.jpg?v=1641233981"
+      ]
+    },
+
+    {
+      "id": "body-pillow-charlie-02",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "5",
+      "categoryName": "body-pillow",
+      "productName": "CHARLIE BODY PILLOW WITH INSERT",
+      "price": 299,
+      "salePrice": 299,
+      "promotionCode": "0",
+      "desc": "Perfect for a basic, clean, and beautifully pure look.  The duvet cover set includes 2 shams. ",
+      "detail": " Inserts sold separately - 100% Long Staple Cotton (300 TC)",
+      "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
+      "inStock": 10,
+      "fabric": "linen",
+      "image": "",
+      "size": ["body pillow with insert"],
+      "colorName": "white",
+      "colorHexa": "#ffffff",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/charlie-cream-body-pillow-2_57fde37e-ad36-4478-9bed-04f0935f3882_1080x.png?v=1641233981"
+      ],
+      "colorList": [
+        {
+          "colorName": "flax",
+          "colorHexa": "#dfd6ca",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/charlie-flax-body-pillow_01867ff3-588f-40c6-bac4-99ea15300d6f_1080x.png?v=1641233981"
+          ]
+        },
+        {
+          "colorName": "white",
+          "colorHexa": "#ffffff",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/charlie-cream-body-pillow-2_57fde37e-ad36-4478-9bed-04f0935f3882_1080x.png?v=1641233981"
+          ]
+        },
+        {
+          "colorName": "cream",
+          "colorHexa": "#fcf6e1",
+          "imageSrc": [
+            "https://cdn.shopify.com/s/files/1/1331/1269/products/charliecreambodypillowside_1080x.jpg?v=1641233981"
+          ]
+        }
+      ],
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/charlie_white_web_1512x2copy_1080x.jpg?v=1641233981",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/charlie-flax-body-pillow_01867ff3-588f-40c6-bac4-99ea15300d6f_1080x.png?v=1641233981",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/LoganBodyPillowBlue_1080x.jpg?v=1649712673",
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/charliecreambodypillowside_1080x.jpg?v=1641233981"
+      ]
+    },
+
+    {
+      "id": "body-pillow-charlie-03",
+      "onSale": "false",
+      "createdAt": "1653666216452",
+      "updatedAt": "1653666216452",
+      "categoryId": "5",
+      "categoryName": "body-pillow",
+      "productName": "CHARLIE BODY PILLOW WITH INSERT",
+      "price": 299,
+      "salePrice": 299,
+      "promotionCode": "0",
+      "desc": "Perfect for a basic, clean, and beautifully pure look.  The duvet cover set includes 2 shams. ",
+      "detail": " Inserts sold separately - 100% Long Staple Cotton (300 TC)",
+      "care": "Machine wash cold; tumble dry low; warm iron as needed. Do not bleach",
+      "inStock": 10,
+      "fabric": "linen",
+      "image": "",
+      "size": ["body pillow with insert"],
+      "colorName": "cream",
+      "colorHexa": "#fcf6e1",
+      "imageSrc": [
+        "https://cdn.shopify.com/s/files/1/1331/1269/products/charliecreambodypillowside_1080x.jpg?v=1641233981"
+      ],
       "colorList": [
         {
           "colorName": "flax",
