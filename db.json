@@ -3078,7 +3078,7 @@
       "inStock": 10,
       "fabric": "cotton",
       "image": "",
-      "size": [],
+      "size": ["42inch x 96inch"],
       "colorName": "midnight",
       "colorHexa": "#4c4a54",
       "imageSrc": [
@@ -3126,7 +3126,7 @@
       "inStock": 10,
       "fabric": "cotton",
       "image": "",
-      "size": [],
+      "size": ["42inch x 96inch"],
       "colorName": "white",
       "colorHexa": "#ffffff",
       "imageSrc": [
@@ -3174,7 +3174,7 @@
       "inStock": 10,
       "fabric": "cotton",
       "image": "",
-      "size": [],
+      "size": ["42inch x 96inch"],
       "colorName": "ocean",
       "colorHexa": "#d0d2cf",
       "imageSrc": [
@@ -3222,7 +3222,7 @@
       "inStock": 10,
       "fabric": "linen",
       "image": "",
-      "size": [],
+      "size": ["42inch x 96inch"],
       "colorName": "cream",
       "colorHexa": "#fcf6e1",
       "imageSrc": [
@@ -3270,7 +3270,7 @@
       "inStock": 10,
       "fabric": "linen",
       "image": "",
-      "size": [],
+      "size": ["42inch x 96inch"],
       "colorName": "flax",
       "colorHexa": "#dfd6ca",
       "imageSrc": [
@@ -3318,7 +3318,7 @@
       "inStock": 10,
       "fabric": "linen",
       "image": "",
-      "size": [],
+      "size": ["42inch x 96inch"],
       "colorName": "white",
       "colorHexa": "#ffffff",
       "imageSrc": [
@@ -3366,7 +3366,7 @@
       "inStock": 5,
       "fabric": "linen",
       "image": "",
-      "size": [],
+      "size": ["42inch x 96inch"],
       "colorName": "cream",
       "colorHexa": "#fcf6e1",
       "imageSrc": [
@@ -3414,7 +3414,7 @@
       "inStock": 5,
       "fabric": "linen",
       "image": "",
-      "size": [],
+      "size": ["42inch x 96inch"],
       "colorName": "flax",
       "colorHexa": "#dfd6ca",
       "imageSrc": [
@@ -3462,7 +3462,7 @@
       "inStock": 5,
       "fabric": "linen",
       "image": "",
-      "size": [],
+      "size": ["42inch x 96inch"],
       "colorName": "white",
       "colorHexa": "#ffffff",
       "imageSrc": [
