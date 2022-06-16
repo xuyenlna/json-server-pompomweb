@@ -185,11 +185,11 @@ router.render = (req, res) => {
 server.use("/api", router);
 
 // Start server
-const PORT = process.env.PORT || 3000;
-server.listen(PORT, () => {
-  console.log("JSON Server is running");
-});
-
-// server.listen(8000, () => {
-//   console.log("Run Auth API Server");
+// const PORT = process.env.PORT || 3000;
+// server.listen(PORT, () => {
+//   console.log("JSON Server is running");
 // });
+
+server.listen(8000, () => {
+  console.log("Run Auth API Server");
+});
