@@ -4,6 +4,7 @@ const jsonServer = require("json-server");
 const jwt = require("jsonwebtoken");
 
 const server = jsonServer.create();
+// const router = jsonServer.router("./database.json");
 const userdb = JSON.parse(fs.readFileSync("./users.json", "UTF-8"));
 
 server.use(bodyParser.urlencoded({ extended: true }));
@@ -36,7 +37,7 @@ function isAuthenticated({ email, password }) {
 }
 
 // Register New User
-server.post("/auth/register", (req, res) => {
+server.post("/api/auth/register", (req, res) => {
   console.log("register endpoint called; request body:");
   console.log(req.body);
   const { email, password } = req.body;
@@ -86,7 +87,7 @@ server.post("/auth/register", (req, res) => {
 });
 
 // Login to one of the users from ./users.json
-server.post("/auth/login", (req, res) => {
+server.post("api/auth/login", (req, res) => {
   console.log("login endpoint called; request body:");
   console.log(req.body);
   const { email, password } = req.body;
@@ -128,6 +129,8 @@ server.use(/^(?!\/auth).*$/, (req, res, next) => {
     res.status(status).json({ status, message });
   }
 });
+
+// server.use(router);
 
 server.listen(8000, () => {
   console.log("Run Auth API Server");

@@ -1,3 +1,10 @@
 {
-  "users": [{ "id": 2, "email": "test@gmail.com", "password": "123456" }]
+  "users": [
+    { "id": 1, "email": "bruno@email.com", "password": "Bruno1234@" },
+    { "id": 2, "email": "techie@email.com", "password": "Bruno1234@" },
+    { "id": 3, "email": "nilson@email.com", "password": "Bruno1234@" },
+    { "id": 4, "email": "nilson1@email.com", "password": "Bruno1234@" },
+    { "id": 5, "email": "nilson2@email.com", "password": "Bruno1234@" },
+    { "id": 6, "email": "nilson3@email.com", "password": "Bruno1234@" }
+  ]
 }
