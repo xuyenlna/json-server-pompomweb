@@ -130,13 +130,8 @@ server.use(/^(?!\/auth).*$/, (req, res, next) => {
   }
 });
 
-server.use("/api", router);
+server.use(router);
 
-// server.listen(8000, () => {
-//   console.log("Run Auth API Server");
-// });
-
-const PORT = process.env.PORT || 3000;
-server.listen(PORT, () => {
-  console.log("JSON Server is running");
+server.listen(8000, () => {
+  console.log("Run Auth API Server");
 });
